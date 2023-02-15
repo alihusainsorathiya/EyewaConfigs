@@ -1,0 +1,158 @@
+{
+  "shippingInfo": "<p>All orders are shipped with our partners.</p><p>For orders over AED 199, delivery is free of charge. For orders below AED 199, delivery charge is AED 9.</p><p>For orders placed using click and collect, delivery is free of charge.</p><p>&nbsp;</p><p>Expected delivery in the next business day. Prescription eyeglasses and contact lenses may need an extra 3 days to deliver.*</p>",
+  "prescriptionData": {
+    "infoText": {
+      "icon": "https://cdn.eyewa.com/contents/assets/icons/tooltip.svg",
+      "title": "We’ll get your prescription later"
+    },
+    "glassFeatures": [
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "Includes High-Quality Standard Lenses"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "30-Day Money Back Guarantee"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "Thin and light lenses as per your prescription"
+      }
+    ],
+    "lenseFeatures": [
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Thin.svg",
+        "text": "Thin  Light"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Water.svg",
+        "text": "Water repellent"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Smudge.svg",
+        "text": "Smudge resistant"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Scratch.svg",
+        "text": "Scratch resistant"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Glasses.svg",
+        "text": "Anti - Reflective "
+      }
+    ],
+    "prescriptionContent": {
+      "Blue Light Filter": {
+        "description": "Can help reduce visual fatigue from excessive screen use",
+        "title": "Blue Light Filter"
+      },
+      "Non-Prescription": {
+        "description": "Clear, hard-coated lenses ready to wear.",
+        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.non-prescription.svg",
+        "title": "Non-Prescription"
+      },
+      "Prescription": {
+        "description": "Single-vision lenses for distance or near vision",
+        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.mountain.svg",
+        "title": "Prescription"
+      },
+      "Reading Glasses": {
+        "description": "Magnifying Reading Glasses",
+        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.book.svg",
+        "title": "Reading Glasses"
+      },
+      "Standard Lenses": {
+        "description": "Our lenses come standard with water repellent, anti-reflective, and scratch resistant coatings",
+        "title": "Standard Lenses"
+      },
+      "Blue Light Filter + Photochromic": {
+        "description": "Reduce visual fatigue from excessive screen use  react quickly to changing light conditions",
+        "title": "Blue Light Filter + Photochromic",
+        "icon": ""
+      },
+      "Photochromic": {
+        "description": "The lens will react quickly to changing light conditions, darkening outside or in bright sunlight",
+        "title": "Photochromic",
+        "icon": ""
+      },
+      "Tinted": {
+        "description": "Add a tint for a high-contrast vision experience, even in glare or diffused lighting",
+        "title": "Tinted",
+        "icon": ""
+      },
+      "Progressive": {
+        "description": "No-line lenses with three fields of vision: distance, intermediate, and near",
+        "title": "Progressive",
+        "icon": ""
+      },
+      "Single vision": {
+        "description": "Most common prescription lenses, used for either distance or near vision",
+        "title": "Single Vision",
+        "icon": ""
+      },
+      "Bifocal": {
+        "description": "Lenses with two fields of vision (distance and near) separated by a visible line.",
+        "title": "Bifocal",
+        "icon": ""
+      }
+    },
+    "prescriptionMoreInfoPopup": {
+      "title": "What does it mean",
+      "content": [
+        {
+          "title": "Prescription (Single Vision)",
+          "description": "Single Vision lenses are the standard eyeglass prescription. These glasses are for one field of vision across the entire lens. Single vision glasses can be prescribed for distance vision or near-vision reading glasses",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.color-mountain.svg",
+            "className": "mountain"
+          }
+        },
+        {
+          "title": "Reading Glasses",
+          "description": "Reading Glasses offer simple magnification to help you see objects nearby. These glasses come in generic strengths to improve the wearer's vision when reading.",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.color-book.svg",
+            "className": "book"
+          }
+        },
+        {
+          "title": "Non-Prescription",
+          "description": "These glasses do not come with powered lenses. They include standard hard coated lenses that offer no vision correction",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.non-prescription.svg",
+            "className": "prescription"
+          }
+        }
+      ]
+    }
+  },
+  "clickAndCollectPopupData": {
+    "title": "Click and Collect",
+    "description": "Order this product now and collect it from the location of your choice",
+    "ctaText": "Learn more",
+    "data": [
+      {
+        "title": "Click  Collect",
+        "content": "It is a free service that allows you to conveniently collect your order from more than 1000 pick-up locations in UAE.",
+        "image": "",
+        "children": [
+          {
+            "title": "Click  Collect",
+            "content": "<strong>Find and select </strong>a location near you",
+            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Map.svg"
+          },
+          {
+            "title": "Click  Collect",
+            "content": "<strong>We will deliver </strong>your order to the selected pick-up location",
+            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Truck.svg"
+          },
+          {
+            "title": "Click  Collect",
+            "content": "The package<strong> will be kept safely </strong>until you pick it up",
+            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Bag.svg"
+          }
+        ]
+      }
+    ]
+  }
+}

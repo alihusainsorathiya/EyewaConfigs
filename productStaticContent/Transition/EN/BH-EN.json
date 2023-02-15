@@ -1,0 +1,157 @@
+{
+  "shippingInfo": "<p>All orders are shipped with our partners.</p><p>Enjoy free shipping on all orders</p>",
+  "prescriptionData": {
+    "infoText": {
+      "icon": "https://cdn.eyewa.com/contents/assets/icons/tooltip.svg",
+      "title": "We’ll get your prescription later"
+    },
+    "glassFeatures": [
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "Includes High-Quality Standard Lenses"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "30-Day Money Back Guarantee"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "Thin and light lenses as per your prescription"
+      }
+    ],
+    "lenseFeatures": [
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Thin.svg",
+        "text": "Thin & Light"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Water.svg",
+        "text": "Water repellent"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Smudge.svg",
+        "text": "Smudge resistant"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Scratch.svg",
+        "text": "Scratch resistant"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Glasses.svg",
+        "text": "Anti - Reflective "
+      }
+    ],
+    "prescriptionContent": {
+      "Standard": {
+        "description": "Durable Lenses included with frame comes with water repellent, anti-reflective, and scratch resistant HMC coating.",
+        "title": "Standard",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/standard.svg"
+      },
+      "Premier": {
+        "description": "Enhanced Lenses comes with water repellent, anti-reflective, fog reduction and scratch resistant SHMC coating.",
+        "title": "Premier",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/premium.svg"
+      },
+      "Elite": {
+        "description": "Premier German Lenses comes with dust and water repellent, anti-reflective, fog reduction, scratch and smudge resistant CSD coating.",
+        "title": "Elite",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/Elite.svg"
+      },
+      "Blue Light Filter": {
+        "description": "Can help reduce visual fatigue from excessive screen use",
+        "title": "Blue Light Filter",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/BlueLightFilter.svg"
+      },
+      "Non-Prescription": {
+        "description": "Clear, hard-coated lenses ready to wear.",
+        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.non-prescription.svg",
+        "title": "Non-Prescription"
+      },
+      "Prescription": {
+        "description": "Single-vision lenses for distance or near vision",
+        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.mountain.svg",
+        "title": "Prescription"
+      },
+      "Reading Glasses": {
+        "description": "Magnifying Reading Glasses",
+        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.book.svg",
+        "title": "Reading Glasses"
+      },
+      "Standard Lenses": {
+        "description": "Our lenses come standard with water repellent, anti-reflective, and scratch resistant coatings",
+        "title": "Standard Lenses",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/standard.svg"
+      },
+      "Blue Light Filter + Photochromic": {
+        "description": "Reduce visual fatigue from excessive screen use & react quickly to changing light conditions",
+        "title": "Blue Light Filter + Photochromic",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/BlueLightFilter--Photochromic.svg"
+      },
+      "Photochromic": {
+        "description": "The lens will react quickly to changing light conditions, darkening outside or in bright sunlight",
+        "title": "Photochromic",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/Photochromic.svg"
+      },
+      "Blue Light Filter + Transition": {
+        "description": "Reduce visual fatigue from excessive screen use & react quickly to changing light conditions",
+        "title": "Blue Light Filter + Transition",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/BlueLightFilter--Photochromic.svg"
+      },
+      "Transition": {
+        "description": "The lens will react quickly to changing light conditions, darkening outside or in bright sunlight",
+        "title": "Transition",
+        "icon": "https://cdn.eyewa.com/contents/1-icons/pdp-options/Photochromic.svg"
+      },
+      "Tinted": {
+        "description": "Add a tint for a high-contrast vision experience, even in glare or diffused lighting",
+        "title": "Tinted",
+        "icon": ""
+      },
+      "Progressive": {
+        "description": "No-line lenses with three fields of vision: distance, intermediate, and near",
+        "title": "Progressive",
+        "icon": ""
+      },
+      "Single vision": {
+        "description": "Most common prescription lenses, used for either distance or near vision",
+        "title": "Single Vision",
+        "icon": ""
+      },
+      "Bifocal": {
+        "description": "Lenses with two fields of vision (distance and near) separated by a visible line.",
+        "title": "Bifocal",
+        "icon": ""
+      }
+    },
+    "prescriptionMoreInfoPopup": {
+      "title": "What does it mean",
+      "content": [
+        {
+          "title": "Prescription (Single Vision)",
+          "description": "Single Vision lenses are the standard eyeglass prescription. These glasses are for one field of vision across the entire lens. Single vision glasses can be prescribed for distance vision or near-vision reading glasses",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.color-mountain.svg",
+            "className": "mountain"
+          }
+        },
+        {
+          "title": "Reading Glasses",
+          "description": "Reading Glasses offer simple magnification to help you see objects nearby. These glasses come in generic strengths to improve the wearer's vision when reading.",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.color-book.svg",
+            "className": "book"
+          }
+        },
+        {
+          "title": "Non-Prescription",
+          "description": "These glasses do not come with powered lenses. They include standard hard coated lenses that offer no vision correction",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.non-prescription.svg",
+            "className": "prescription"
+          }
+        }
+      ]
+    }
+  },
+  "clickAndCollectPopupData": null
+}
