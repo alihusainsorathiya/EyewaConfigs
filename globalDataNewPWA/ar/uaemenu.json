@@ -214,8 +214,7 @@
       },
       {
         "target": "_self",
-        "name": "ماركات النظارات الشمسية",
-        name missing for collection
+        "name": "اختياراتنا",
         "url": "#",
         "index": 3,
         "desktop": true,
@@ -898,6 +897,42 @@
               "hideOnDesktop": false
             }
           ]
+        },        {
+          "name": "محلول عدسات وقطرات معقمة للعين",
+          "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
+          "target": "_self",
+          "index": 2,
+          "hideOnDesktop": false,
+          "children": [
+            {
+              "name": "محلول عدسات ألكون",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/alcon.html",
+              "target": "_self",
+              "index": 0,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "محاليل وقطرات كوبر فيجين",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/coopervision.html",
+              "target": "_self",
+              "index": 1,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "رينو ملتي بلس - محلول متعدد الاستعمالات",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/renu.html",
+              "target": "_self",
+              "index": 2,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "بيوترو محلول للعدسات",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/Biotrue.html",
+              "target": "_self",
+              "index": 3,
+              "hideOnDesktop": false
+            }
+          ]
         }
       ],
       "hideOnDesktop": false
@@ -927,6 +962,20 @@
             {
               "name": "حافظات للنظارات",
               "url": "/{{customVar code=storeCode}}/accessories/sunglasses-cases.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            }, {
+              "name": "مجموعة العناية بالنظارات",
+              "url": "/{{customVar code=storeCode}}/accessories/cleaning-kit.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+            {
+        
+              "name": "محاليل عدسات وقطرات معقمة للعين",
+              "url": "/{{customVar code=storeCode}}/accessories/solutions-and-drops.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false

@@ -214,7 +214,7 @@
       },
       {
         "target": "_self",
-        "name": "Collection",
+"name": "TOP PICKS",
         "url": "#",
         "index": 3,
         "desktop": true,
@@ -865,7 +865,7 @@
             }
           ]
         },
-        {
+{
           "name": "Color Contact Lenses By Durations",
           "url": "#",
           "target": "_self",
@@ -908,6 +908,42 @@
               "hideOnDesktop": false
             }
           ]
+        },        {
+          "name": "Solutions and Eye Drops",
+          "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
+          "target": "_self",
+          "index": "",
+          "hideOnDesktop": false,
+          "children": [
+            {
+              "name": "Alcon Lens Solutions",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/alcon.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+            {
+              "name": "CooperVision Multipurpose Solution",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/coopervision.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+            {
+              "name": "Renu Multi-plus Lens Solution",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/renu.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+            {
+              "name": "Biotrue Lens Solution",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/Biotrue.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            }
+          ]
         }
       ],
       "hideOnDesktop": false
@@ -937,6 +973,21 @@
             {
               "name": "Cases",
               "url": "/{{customVar code=storeCode}}/accessories/sunglasses-cases.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+            {
+              "name": "Cleaning kit",
+              "url": "/{{customVar code=storeCode}}/accessories/cleaning-kit.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+            {
+        
+              "name": "Solutions and eye drops",
+              "url": "/{{customVar code=storeCode}}/accessories/solutions-and-drops.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
