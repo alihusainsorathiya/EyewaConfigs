@@ -190,7 +190,7 @@
           {
             "target": "_self",
             "name": "نظارات شمسية تومي هيلفيغر",
-            "url": "/{{customVar code=storeCode}}/sunglasses/Tommy-Hilfiger.html",
+            "url": "/{{customVar code=storeCode}}/sunglasses/tommy-hilfiger.html",
             "index": 5,
             "desktop": true,
             "mobile": true,

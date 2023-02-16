@@ -192,7 +192,7 @@
           {
             "target": "_self",
             "name": "Tommy Hilfiger Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/Tommy-Hilfiger.html",
+            "url": "/{{customVar code=storeCode}}/sunglasses/tommy-hilfiger.html",
             "index": 5,
             "desktop": true,
             "mobile": true,
@@ -232,7 +232,7 @@
           },
           {
             "target": "_self",
-            "name": "Bestseller",
+            "name": "Bestsellers",
             "url": "/{{customVar code=storeCode}}/sunglasses/best-sellers.html",
             "index": 1,
             "desktop": true,
@@ -980,7 +980,7 @@
               "hideOnDesktop": false
             },
             {
-              "name": "Cleaning kit",
+              "name": "Cleaning Kit",
               "url": "/{{customVar code=storeCode}}/accessories/cleaning-kit.html",
               "target": "_self",
               "index": "",
@@ -988,7 +988,7 @@
             },
             {
         
-              "name": "Solutions and eye drops",
+              "name": "Solutions and Eye Drops",
               "url": "/{{customVar code=storeCode}}/accessories/solutions-and-drops.html",
               "target": "_self",
               "index": "",

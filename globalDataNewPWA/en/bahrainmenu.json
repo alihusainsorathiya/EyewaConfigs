@@ -192,7 +192,7 @@
           {
             "target": "_self",
             "name": "Tommy Hilfiger Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/Tommy-Hilfiger.html",
+            "url": "/{{customVar code=storeCode}}/sunglasses/tommy-hilfiger.html",
             "index": 5,
             "desktop": true,
             "mobile": true,
@@ -232,7 +232,7 @@
           },
           {
             "target": "_self",
-            "name": "Bestseller",
+            "name": "Bestsellers",
             "url": "/{{customVar code=storeCode}}/sunglasses/best-sellers.html",
             "index": 1,
             "desktop": true,
