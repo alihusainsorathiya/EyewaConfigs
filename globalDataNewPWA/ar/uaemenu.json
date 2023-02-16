@@ -1085,20 +1085,20 @@
     {
       "link": "#",
       "index": 0,
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/freedelivery.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/delivery.svg",
       "label": "توصيل مجاني"
     },
  
     {
       "link": "#",
       "index": 1,
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/freereturn.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/return.svg",
       "label": "إرجاع/إستبدال مجاني خلال 30 يوماً"
     },
     {
       "link": "#",
       "index": 2,
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/original.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/original.svg",
       "label": "نضمن أن منتجاتنا 100% أصلية "
     }
   ],
@@ -1106,13 +1106,13 @@
     {
       "link": "#",
       "index": 0,
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/freedelivery.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/delivery.svg",
       "label": "توصيل مجاني"
     },
     {
       "link": "#",
       "index": 1,
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/freereturn.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/return.svg",
       "label": "إرجاع/إستبدال مجاني خلال 30 يوماً"
     }
   ],

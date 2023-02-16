@@ -1094,19 +1094,19 @@
     {
       "index": 0,
       "link": "#",
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/freedelivery.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/delivery.svg",
       "label": "Free Delivery"
     },
     {
       "index": 1,
       "link": "#",
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/freereturn.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/return.svg",
       "label": "Free 30-Day Return/Exchange"
     },
     {
       "index": 2,
       "link": "#",
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/original.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/original.svg",
       "label": "100% Original Products"
     }
   ],
@@ -1114,13 +1114,13 @@
     {
       "index": 0,
       "link": "#",
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/freedelivery.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/delivery.svg",
       "label": "Free Delivery"
     },
     {
       "index": 1,
       "link": "#",
-      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/freereturn.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/return.svg",
       "label": "Free 30-Day Return/Exchange"
     }
   ],
