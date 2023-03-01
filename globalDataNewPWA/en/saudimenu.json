@@ -652,7 +652,7 @@
             },
             {
               "name": "Biotrue Lens Solution",
-              "url": "/{{customVar code=storeCode}}/solutions-and-drops/Biotrue.html",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops/biotrue.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
