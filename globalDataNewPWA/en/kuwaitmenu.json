@@ -953,7 +953,7 @@
     {
       "target": "_self",
       "name": "Accessories",
-      "url": "/{{customVar code=storeCode}}/color-contact-lenses.html",
+      "url": "/{{customVar code=storeCode}}/accessories.html",
       "index": 5,
       "desktop": true,
       "mobile": true,
