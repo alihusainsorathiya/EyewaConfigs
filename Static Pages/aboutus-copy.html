@@ -1,0 +1,668 @@
+<style>
+  .aboutUsContainer {
+    position: relative;
+    display: block;
+    width: 100%
+  }
+
+  .aboutUsContainer a,
+  .aboutUsContainer h2,
+  .aboutUsContainer h3,
+  .aboutUsContainer h4,
+  .aboutUsContainer h5,
+  .aboutUsContainer h6,
+  .aboutUsContainer li,
+  .aboutUsContainer p,
+  .aboutUsContainer ul {
+    color: #000;
+    text-align: center;
+    margin: 0;
+    padding: 0
+  }
+
+  .aboutUsContainer a {
+    text-decoration: none
+  }
+
+  .aboutUsContainer img,
+  .aboutUsContainer picture,
+  .aboutUsContainer source {
+    width: 100%
+  }
+
+  .aboutUsContainer .titleImage {
+    width: 100vw;
+    height: 200px;
+    background-image: url(https://cdn.eyewa.com/images/landing-pages/2020/december/about-us/About-us.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: -8px 0 0
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .titleImage {
+      background-image: url(https://cdn.eyewa.com/images/landing-pages/2020/december/about-us/About-us.jpg);
+      height: 400px;
+      margin: -40px -20px 0
+    }
+  }
+
+  .aboutUsContainer section {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 50px 16px 0
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer section {
+      max-width: 1168px;
+      padding: 100px 16px 0
+    }
+  }
+
+  .aboutUsContainer .section-title {
+    font-size: 1.75rem;
+    line-height: 3.75rem;
+    font-weight: 600;
+    color: #464545;
+    text-transform: uppercase;
+    margin-bottom: 40px
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .section-title {
+      font-size: 4.4rem;
+      line-height: 6.5rem
+    }
+  }
+
+  .aboutUsContainer .section-title::after {
+    content: "";
+    display: block;
+    width: 70px;
+    height: 2px;
+    background-color: #464545;
+    margin: 0 auto
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .section-title::after {
+      width: 112px;
+      height: 4px
+    }
+  }
+
+  .aboutUsContainer p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    color: #707070;
+    margin-bottom: 18px
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer p {
+      font-size: 2.4rem;
+      line-height: 4rem
+    }
+  }
+
+  .aboutUsContainer .small {
+    max-width: 900px;
+    margin: 0 auto;
+    font-size: .9375rem;
+    line-height: 1rem;
+    font-weight: 700;
+    color: #707070;
+    margin-bottom: 50px
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .small {
+      font-size: 2rem;
+      line-height: 2.4rem;
+      margin-bottom: 90px
+    }
+  }
+
+  .aboutUsContainer .features {
+    display: flex;
+    flex-direction: column;
+    width: 100%
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .features {
+      flex-direction: row
+    }
+  }
+
+  .aboutUsContainer .features .row {
+    flex: 1;
+    display: flex;
+    justify-content: space-between
+  }
+
+  .aboutUsContainer .features .feature {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+  }
+
+  .aboutUsContainer .features .feature img,
+  .aboutUsContainer .features .feature picture,
+  .aboutUsContainer .features .feature source {
+    width: unset;
+    height: 50px;
+    margin-bottom: 20px
+  }
+
+  @media screen and (min-width:768px) {
+
+    .aboutUsContainer .features .feature img,
+    .aboutUsContainer .features .feature picture,
+    .aboutUsContainer .features .feature source {
+      height: 90px
+    }
+  }
+
+  .aboutUsContainer .features .feature p {
+    font-size: .9375rem;
+    line-height: 1rem;
+    font-weight: 500;
+    color: #323232
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .features .feature p {
+      font-size: 2.2rem;
+      line-height: 3.3rem
+    }
+  }
+
+  .aboutUsContainer .category-grid {
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 47% 47%;
+    gap: 6%;
+    margin-bottom: 100px
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .category-grid {
+      grid-template-columns: 30% 30% 30%;
+      gap: 5%;
+      margin-bottom: 70px
+    }
+  }
+
+  .aboutUsContainer .category-grid__card h3 {
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: #181818;
+    margin: 12px 0;
+    text-align: left
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .category-grid__card h3 {
+      font-size: 2.6rem;
+      line-height: 3.6rem;
+      margin: 24px 0 20px;
+      text-align: center
+    }
+  }
+
+  .aboutUsContainer .category-grid__card p {
+    font-size: 1rem;
+    line-height: 1rem;
+    font-weight: 400;
+    color: #707070;
+    text-align: left
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .category-grid__card p {
+      font-size: 1.8rem;
+      line-height: 2.8rem;
+      text-align: center
+    }
+  }
+
+  .aboutUsContainer .vto_cta {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    font-weight: 500;
+    color: #464545
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .vto_cta {
+      font-size: 2.8rem;
+      line-height: 4rem
+    }
+  }
+
+  .aboutUsContainer .vto_video_holder {
+    width: 100%;
+    overflow: hidden;
+    height: 70vw;
+    position: relative
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .vto_video_holder {
+      height: unset
+    }
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .vto_video_holder--mobile {
+      display: none
+    }
+  }
+
+  .aboutUsContainer .vto_video_holder--desktop {
+    display: none
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .vto_video_holder--desktop {
+      display: block
+    }
+  }
+
+  .aboutUsContainer .vto_video_holder video {
+    width: 100%;
+    display: block
+  }
+
+  .aboutUsContainer .vto_video_holder .vto_backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: rgba(0, 0, 0, .5)
+  }
+
+  .aboutUsContainer .vto_video_holder .vto_backdrop h2 {
+    color: #fff;
+    font-size: 1.75rem;
+    line-height: 1.23;
+    margin-bottom: 30px
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .vto_video_holder .vto_backdrop h2 {
+      font-size: 4.4rem;
+      margin-bottom: 8px
+    }
+  }
+
+  .aboutUsContainer .vto_video_holder .vto_backdrop .vto_apps {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 50px
+  }
+
+  .aboutUsContainer .vto_video_holder .vto_backdrop .vto_apps img {
+    width: 147px
+  }
+
+  .aboutUsContainer .vto_video_holder .vto_backdrop .vto_apps img:first-child {
+    margin-right: 12px
+  }
+
+  .aboutUsContainer .map-grid {
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    gap: 5%
+  }
+
+  .aboutUsContainer .map-grid__card h3 {
+    font-size: 1rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: #464545;
+    margin: 0 0 10px;
+    text-align: left
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .map-grid__card h3 {
+      font-size: 2.8rem;
+      line-height: 3.6rem;
+      margin: 24px 0 20px;
+      text-align: center
+    }
+  }
+
+  .aboutUsContainer .map-grid__card p {
+    font-size: .75rem;
+    line-height: 1rem;
+    font-weight: 400;
+    color: #707070;
+    text-align: left
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .map-grid__card p {
+      font-size: 1.8rem;
+      line-height: 2.8rem;
+      text-align: center
+    }
+  }
+
+  .aboutUsContainer .partners {
+    max-width: 100%;
+    overflow: hidden;
+    margin: 0;
+    margin-bottom: 50px
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .partners {
+      margin-bottom: 100px
+    }
+  }
+
+  .aboutUsContainer .partners div {
+    width: max-content;
+    height: 50px;
+    animation: partners 20s linear infinite
+  }
+
+  .aboutUsContainer .partners img {
+    width: unset;
+    height: 30px;
+    display: inline-block;
+    margin-right: 56px
+  }
+
+  @media screen and (min-width:768px) {
+    .aboutUsContainer .partners img {
+      height: 50px
+    }
+  }
+
+  @keyframes partners {
+    0% {
+      transform: translateX(0)
+    }
+
+    100% {
+      transform: translateX(-50%)
+    }
+  }
+
+  @keyframes partners-ar {
+    0% {
+      transform: translateX(0)
+    }
+
+    100% {
+      transform: translateX(50%)
+    }
+  }
+
+  @media screen and (max-width:767px) {
+
+    html:lang(ar) .aboutUsContainer .category-grid__card h3,
+    html:lang(ar) .aboutUsContainer .category-grid__card p {
+      text-align: right
+    }
+  }
+
+  html:lang(ar) .aboutUsContainer .vto_video_holder .vto_backdrop .vto_apps img:first-child {
+    margin-left: 12px;
+    margin-right: 0
+  }
+
+  @media screen and (max-width:767px) {
+
+    html:lang(ar) .aboutUsContainer .map-grid__card h3,
+    html:lang(ar) .aboutUsContainer .map-grid__card p {
+      text-align: right
+    }
+  }
+
+  html:lang(ar) .aboutUsContainer .partners div {
+    animation: partners-ar 20s linear infinite
+  }
+</style>
+
+<div class="aboutUsContainer">
+  <div class="titleImage">&nbsp;</div>
+  <section>
+    <h2 class="section-title">About eyewa</h2>
+    <p>Eyewa was founded in 2017, with a purposeful intent to offer an advanced and easy-to-use platform to purchase
+      high-quality eyewear at affordable prices, creating a unique, efficient, and memorable shopping experience to all.
+      Ever since, we became the largest and most trusted online eyewear store in the Middle East to provide the finest
+      brands of prescription glasses, sunglasses, blue light glasses, color contact lenses, and corrective contact
+      lenses.</p>
+    <p class="small">Our mission is to become the best eyewear store in the region by making quality eye care and
+      eyewear more affordable and accessible to all!</p>
+    <div class="features">
+      <div class="row">
+        <div class="feature"><img
+            src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/feature_1_desktop.jpg"
+            alt="Fast Shipping">
+          <p>Free Shipping</p>
+        </div>
+        <div class="feature"><img
+            src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/feature_2_desktop.jpg"
+            alt="30 Days Exchange">
+          <p>30 Days Exchange</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="feature"><img
+            src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/feature_3_desktop.jpg"
+            alt="Cash on Delivery">
+          <p>Cash on Delivery</p>
+        </div>
+        <div class="feature"><img
+            src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/feature_4_desktop.jpg"
+            alt="Authentic">
+          <p>Authentic</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <h2 class="section-title">We are all eyes</h2>
+    <div class="category-grid">
+      <div class="category-grid__card"><a href="{{store url='/'}}sunglasses.html">
+          <picture>
+            <source
+              srcset="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_1_mobile.jpg"
+              media="(max-width: 767px)">
+            <source srcset="
+                        https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_1_desktop.jpg
+                      " media="(min-width: 768px)"> <img
+              src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_1_desktop.jpg"
+              alt="Sunglasses">
+          </picture>
+        </a>
+        <h3>Sunglasses</h3>
+        <p>Browse our curated selection of sunglasses that will keep you stylish &amp; protected from the sun's rays.
+        </p>
+      </div>
+      <div class="category-grid__card"><a href="{{store url='/'}}glasses.html">
+          <picture>
+            <source
+              srcset="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_2_mobile.jpg"
+              media="(max-width: 767px)">
+            <source srcset="
+                        https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_2_desktop.jpg
+                      " media="(min-width: 768px)"> <img
+              src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_2_desktop.jpg"
+              alt="Eyeglasses">
+          </picture>
+        </a>
+        <h3>Eyeglasses</h3>
+        <p>We made it easier for you to buy prescription glasses, from the comfort of your own home.</p>
+      </div>
+      <div class="category-grid__card"><a href="{{store url='/'}}blue-light-glasses.html">
+          <picture>
+            <source
+              srcset="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_3_mobile.jpg"
+              media="(max-width: 767px)">
+            <source srcset="
+                        https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_3_desktop.jpg
+                      " media="(min-width: 768px)"> <img
+              src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_3_desktop.jpg"
+              alt="Blue Light Glasses">
+          </picture>
+        </a>
+        <h3>Blue Light Glasses</h3>
+        <p>Our glasses don't just look stylish, but they're also easier on the eyes by blocking harmful blue light rays.
+        </p>
+      </div>
+      <div class="category-grid__card"><a href="{{store url='/'}}color-contact-lenses.html">
+          <picture>
+            <source
+              srcset="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_4_mobile.jpg"
+              media="(max-width: 767px)">
+            <source srcset="
+                        https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_4_desktop.jpg
+                      " media="(min-width: 768px)"> <img
+              src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_4_desktop.jpg"
+              alt="Colored Contact Lenses">
+          </picture>
+        </a>
+        <h3>Colored Contact Lenses</h3>
+        <p>Bring out your true colors by wearing our colored contact lenses, with sophistication and comfort.</p>
+      </div>
+      <div class="category-grid__card"><a href="{{store url='/'}}corrective-contact-lenses.html">
+          <picture>
+            <source
+              srcset="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_5_mobile.jpg"
+              media="(max-width: 767px)">
+            <source srcset="
+                        https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_5_desktop.jpg
+                      " media="(min-width: 768px)"> <img
+              src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_5_desktop.jpg"
+              alt="Clear Contact Lenses">
+          </picture>
+        </a>
+        <h3>Clear Contact Lenses</h3>
+        <p>Enjoy our Clear Contact Lenses for an ideal all-day comfort and uncompromised sight.</p>
+      </div>
+      <div class="category-grid__card"><a href="{{store url='/'}}kids-eyewear.html">
+          <picture>
+            <source
+              srcset="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_6_mobile.jpg"
+              media="(max-width: 767px)">
+            <source srcset="
+                        https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_6_desktop.jpg
+                      " media="(min-width: 768px)"> <img
+              src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/category_6_desktop.jpg"
+              alt="Kids' Eyewear">
+          </picture>
+        </a>
+        <h3>Kids' Eyewear</h3>
+        <p>Durable, affordable, &amp; colorful! Let your kids pick out their new frames - they will certainly be excited
+          about it.</p>
+      </div>
+    </div>
+  </section>
+  <!--
+      <section>
+          <h2 class="section-title">TRY BEFORE YOU BUY!</h2>
+          <p>Skeptical about buying eyewear online?<br>Now you can try your favorite pair of specs on virtually from the
+              comfort of your home!</p>
+          <p class="vto_cta">Use our Virtual Try-On feature and shop confidently!</p>
+          <div class="vto_video_holder vto_video_holder--desktop"><video id="video" preload="auto" autoplay="autoplay"
+                  loop="loop" muted="true" width="300" height="150">
+                  <source src="https://cdn.eyewa.com/media/videos/VTO-WEB.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+              </video>
+              <div class="vto_backdrop">
+                  <h2>GET STARTED<br>DOWNLOAD THE APP</h2>
+                  <div class="vto_apps"><img src="https://cdn.eyewa.com/media/pwa/images/app-download/Banner_Google.svg"
+                          alt="Google play"> <img
+                          src="https://cdn.eyewa.com/media/pwa/images/app-download/Banner_Apple.svg" alt="App store">
+                  </div>
+              </div>
+          </div>
+          <div class="vto_video_holder vto_video_holder--mobile"><video id="video" preload="auto" autoplay="autoplay"
+                  loop="loop" muted="true" width="300" height="150">
+                  <source src="https://cdn.eyewa.com/media/videos/home-video.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+              </video>
+              <div class="vto_backdrop">
+                  <h2>GET STARTED</h2>
+              </div>
+          </div>
+      </section> -->
+  <section class="about-us__our-stores">
+    <h2 class="section-title">Visit Our Stores</h2>
+    <p class="section-copy">Visit your nearest eyewa store today, we are always working to expand across the United Arab
+      Emirates and the Kingdom of Saudi Arabia</p>
+    <div class="about-us__image-wrapper">
+      <picture>
+        <source srcset="https://cdn.eyewa.com/contents/landingpage/2021/about-us/stores-mobile.jpg"
+          media="(max-width: 767px)">
+        <source srcset="https://cdn.eyewa.com/contents/landingpage/2021/about-us/stores-desktop.jpg"
+          media="(min-width: 768px)"> <img
+          src="https://cdn.eyewa.com/contents/landingpage/2021/about-us/stores-desktop.jpg" alt="Eyewa Offline Store">
+      </picture>
+    </div>
+    <a class="about-us__button" href="/{{customVar code=storeCode}}/store-locator">Find a store</a>
+  </section>
+  <section>
+    <h2 class="section-title">Team</h2>
+    <picture>
+      <source srcset="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/team_mobile.jpg"
+        media="(max-width: 767px)">
+      <source srcset="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/team_desktop.jpg"
+        media="(min-width: 768px)"> <img
+        src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/team_desktop.jpg" alt="Team">
+    </picture>
+    <p>We are proud to have built an incredible, diverse and hard-working team. Our eyewa family currently has over 300+
+      members who come from over 30+ nationalities - all working to achieve the same eyewa dream!</p>
+  </section>
+  <section class="partners">
+    <h2 class="section-title">MENTIONED IN</h2>
+    <div><img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_1.jpg"
+        alt="Partners"> <img
+        src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_2.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_3.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_4.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_5.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_6.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_7.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_8.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_9.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_10.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_11.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_12.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_1.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_2.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_3.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_4.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_5.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_6.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_7.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_8.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_9.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_10.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_11.jpg" alt="Partners">
+      <img src="https://cdn.eyewa.com/media/images/landing-pages/2020/december/about-us/partners_12.jpg" alt="Partners">
+    </div>
+  </section>
+</div>
