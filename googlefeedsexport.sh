@@ -11,8 +11,6 @@ declare -a type=(all ccl pcl)
 # BASE URL
 googleFeedsUrl="https://adm.eyewa.com/google_feed"
 
-
-
 if [[ ! -d GoogleFeedsXMLFiles ]]
   then
 # Create Directory
@@ -42,7 +40,6 @@ do
 
         do 
               
-
 filename="google_export_${i}_${j}_${k}.xml"
 
   # IF Store = US-AR -> SKIP
@@ -52,7 +49,6 @@ filename="google_export_${i}_${j}_${k}.xml"
     continue
 	fi
 
-  
 # Check if URL File Exists || This file will have URLs to download all feeds
   echo "${i^^}_${j^^}_${k^^} Products : ${googleFeedsUrl}/${filename}" >> googleFeedsUrl.txt
 
@@ -63,8 +59,6 @@ echo "Exporting files for ${i^^}_${j^^}_${k^^} "
 curl -o ${filename} ${googleFeedsUrl}/${filename}
 echo "================== ${i^^}_${j^^}_${k^^}  DONE ===================="
  
-
-
 
 done 
 done
