@@ -1339,10 +1339,6 @@
   "algoliaRecommendationv2": true,
   "algoliaRecommendation": true,
   "isRTL": true,
-  "taxAndVat": [
-    { "label": "CR#", "value": "2051221123" },
-    { "label": "VAT#", "value": "310194587500003" }
-  ],
   "utilityLinks": [
     {
       "label": "فروعنا",
