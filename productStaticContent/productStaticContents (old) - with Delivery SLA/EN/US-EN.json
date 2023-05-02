@@ -42,60 +42,60 @@
       }
     ],
     "prescriptionContent": {
-      "Blue Light Filter": {
-        "description": "Can help reduce visual fatigue from excessive screen use",
-        "title": "Blue Light Filter"
+        "Blue Light Filter": {
+          "description": "Can help reduce visual fatigue from excessive screen use",
+          "title": "Blue Light Filter"
+        },
+        "Non-Prescription": {
+          "description": "Clear, hard-coated lenses ready to wear.",
+          "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.non-prescription.svg",
+          "title": "Non-Prescription"
+        },
+        "Prescription": {
+          "description": "Single-vision lenses for distance or near vision",
+          "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.mountain.svg",
+          "title": "Prescription"
+        },
+        "Reading Glasses": {
+          "description": "Magnifying Reading Glasses",
+          "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.book.svg",
+          "title": "Reading Glasses"
+        },
+        "Standard Lenses": {
+          "description": "Our lenses come standard with water repellent, anti-reflective, and scratch resistant coatings",
+          "title": "Standard Lenses"
+        },
+        "Blue Light Filter + Transition": {
+          "description": "Reduce visual fatigue from excessive screen use & react quickly to changing light conditions",
+          "title": "Blue Light Filter + Transition",
+          "icon": ""
+        },
+        "Transition": {
+          "description": "The lens will react quickly to changing light conditions, darkening outside or in bright sunlight",
+          "title": "Transition",
+          "icon": ""
+        },
+        "Tinted": {
+          "description": "Add a tint for a high-contrast vision experience, even in glare or diffused lighting",
+          "title": "Tinted",
+          "icon": ""
+        },
+        "Progressive": {
+          "description": "No-line lenses with three fields of vision: distance, intermediate, and near",
+          "title": "Progressive",
+          "icon": ""
+        },
+        "Single vision": {
+          "description": "Most common prescription lenses, used for either distance or near vision",
+          "title": "Single Vision",
+          "icon": ""
+        },
+        "Bifocal": {
+          "description": "Lenses with two fields of vision (distance and near) separated by a visible line.",
+          "title": "Bifocal",
+          "icon": ""
+        }
       },
-      "Non-Prescription": {
-        "description": "Clear, hard-coated lenses ready to wear.",
-        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.non-prescription.svg",
-        "title": "Non-Prescription"
-      },
-      "Prescription": {
-        "description": "Single-vision lenses for distance or near vision",
-        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.mountain.svg",
-        "title": "Prescription"
-      },
-      "Reading Glasses": {
-        "description": "Magnifying Reading Glasses",
-        "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.book.svg",
-        "title": "Reading Glasses"
-      },
-      "Standard Lenses": {
-        "description": "Our lenses come standard with water repellent, anti-reflective, and scratch resistant coatings",
-        "title": "Standard Lenses"
-      },
-      "Blue Light Filter + Photochromic": {
-        "description": "Reduce visual fatigue from excessive screen use  react quickly to changing light conditions",
-        "title": "Blue Light Filter + Photochromic",
-        "icon": ""
-      },
-      "Photochromic": {
-        "description": "The lens will react quickly to changing light conditions, darkening outside or in bright sunlight",
-        "title": "Photochromic",
-        "icon": ""
-      },
-      "Tinted": {
-        "description": "Add a tint for a high-contrast vision experience, even in glare or diffused lighting",
-        "title": "Tinted",
-        "icon": ""
-      },
-      "Progressive": {
-        "description": "No-line lenses with three fields of vision: distance, intermediate, and near",
-        "title": "Progressive",
-        "icon": ""
-      },
-      "Single vision": {
-        "description": "Most common prescription lenses, used for either distance or near vision",
-        "title": "Single Vision",
-        "icon": ""
-      },
-      "Bifocal": {
-        "description": "Lenses with two fields of vision (distance and near) separated by a visible line.",
-        "title": "Bifocal",
-        "icon": ""
-      }
-    },
     "prescriptionMoreInfoPopup": {
       "title": "What does it mean",
       "content": [
