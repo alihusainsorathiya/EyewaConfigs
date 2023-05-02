@@ -1,8 +1,8 @@
 {
-  "shippingInfo": "<p>All orders are shipped with our partners.</p><p>For orders over SAR 250, delivery is free of charge. For orders below SAR 250, delivery charge is SAR 19.</p><p>Expected delivery times of 1-3 business days. Prescription eyeglasses and contact lenses may need an extra 3 days to deliver.*</p>",
+  "shippingInfo": "<p>All orders are shipped with our partners.</p><p>Enjoy free shipping on all orders.</p><p>Expected delivery times of 1-2 business days. Prescription eyeglasses need an extra 3 days for fitting at our partner labs.</p>",
   "prescriptionData": {
     "infoText": {
-      "icon": "https: //cdn.eyewa.com/contents/assets/icons/tooltip.svg",
+      "icon": "https://cdn.eyewa.com/contents/assets/icons/tooltip.svg",
       "title": "We’ll get your prescription later"
     },
     "glassFeatures": [
@@ -65,14 +65,14 @@
         "description": "Our lenses come standard with water repellent, anti-reflective, and scratch resistant coatings",
         "title": "Standard Lenses"
       },
-      "Blue Light Filter + Photochromic": {
-        "description": "Reduce visual fatigue from excessive screen use  react quickly to changing light conditions",
-        "title": "Blue Light Filter + Photochromic",
+      "Blue Light Filter + Transition": {
+        "description": "Reduce visual fatigue from excessive screen use & react quickly to changing light conditions",
+        "title": "Blue Light Filter + Transition",
         "icon": ""
       },
-      "Photochromic": {
+      "Transition": {
         "description": "The lens will react quickly to changing light conditions, darkening outside or in bright sunlight",
-        "title": "Photochromic",
+        "title": "Transition",
         "icon": ""
       },
       "Tinted": {
@@ -126,33 +126,5 @@
       ]
     }
   },
-  "clickAndCollectPopupData": {
-    "title": "Click and Collect",
-    "description": "Order this product now and collect it from the location of your choice",
-    "ctaText": "Learn more",
-    "data": [
-      {
-        "title": "Click and Collect",
-        "content": "It is a free service that allows you to conveniently collect your order from more than 1000 pick-up locations in KSA.",
-        "image": "",
-        "children": [
-          {
-            "title": "Click and Collect",
-            "content": "Find and select a location near you",
-            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Map.svg"
-          },
-          {
-            "title": "Click and Collect",
-            "content": "We will deliver your order to the selected pick-up location",
-            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Truck.svg"
-          },
-          {
-            "title": "Click and Collect",
-            "content": "The package will be kept safely until you pick it up",
-            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Bag.svg"
-          }
-        ]
-      }
-    ]
-  }
+  "clickAndCollectPopupData": null
 }

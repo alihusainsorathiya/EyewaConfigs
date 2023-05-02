@@ -1,5 +1,5 @@
 {
-  "shippingInfo": "<p>كل الطلبيات يتم شحنها عبر شركائنا.</p><p>التوصيل مجاني للطلبات فوق 199 درهم. تطبق رسوم التوصيل بقيمة 9 درهم للطلبات أقل من 199 درهم.</p><p>.التوصيل مجاني للطلبات، عند اختيارك خدمة انقر و استلم</p><p>موعد التوصيل المتوقع في يوم العمل القادم. النظارات و العدسات الطبية يمكن أن تتطلب 3 أيام إضافية للتوصيل.*<p>",
+  "shippingInfo": "<p>يتم شحن جميع الطلبات مع شركائنا.</p><p>للطلبات بقيمة 500 ريال قطري أو أكثر ، التوصيل مجاني. للطلبات التي تقل قيمتها عن 500 ريال قطري ، تبلغ رسوم التوصيل 49 ريال قطري.</p><p>أوقات التسليم المتوقعة من 5-7 أيام عمل. تحتاج النظارات الطبية إلى 3 أيام إضافية لتركيبها في معاملنا الشريكة.</p>",
   "prescriptionData": {
     "infoText": {
       "icon": "https://cdn.eyewa.com/contents/assets/icons/tooltip.svg",
@@ -61,14 +61,14 @@
         "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.book.svg",
         "title": "نظارات قراءة"
       },
-      "Blue Light Filter + Photochromic": {
+      "Blue Light Filter + Transition": {
         "description": "تقلل من إرهاق العين الناتج عن الإستخدام المفرط للشاشات الرقمية تتكيف بسرعة مع الإضاءة المتغيرة",
-        "title": "فلتر الضوء الأزرق + فوتوكروميك",
+        "title": "فلتر الضوء الأزرق + العدسات المتغيره بالضوء",
         "icon": ""
       },
-      "Photochromic": {
+      "Transition": {
         "description": "تتكيف العدسة بسرعة مع ظروف الإضاءة المتغيرة، تغمق العدسة مع ضوء الشمس أو مع الإضاءة الساطعة ",
-        "title": "فوتوكروميك",
+        "title": " العدسات المتغيره بالضوء",
         "icon": ""
       },
       "Tinted": {
@@ -126,33 +126,5 @@
       ]
     }
   },
-  "clickAndCollectPopupData": {
-    "title": "استلم بنفسك",
-    "description": "اطلب هذا المنتج الآن واستلمه من المكان الذي تختاره",
-    "ctaText": "اعرف المزيد",
-    "data": [
-      {
-        "title": "استلم بنفسك",
-        "content": "خدمة مجانية تتيح لك استلام طلبك من أكثر من 1000 موقع استلام في الإمارات",
-        "image": "",
-        "children": [
-          {
-            "title": "استلم بنفسك",
-            "content": "<strong>قم بالبحث واختيار</strong> موقع الاستلام الأقرب لك",
-            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Map.svg"
-          },
-          {
-            "title": "استلم بنفسك",
-            "content": "<strong>سنقوم بتوصيل</strong> طلبك لموقع الاستلام المحدد",
-            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Truck.svg"
-          },
-          {
-            "title": "استلم بنفسك",
-            "content": "<strong>سنقوم بتخزين شحنتك بأمان</strong> إلى حين استلامك لها",
-            "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Bag.svg"
-          }
-        ]
-      }
-    ]
-  }
+  "clickAndCollectPopupData": null
 }

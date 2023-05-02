@@ -1,0 +1,130 @@
+{
+  "shippingInfo": "<p>كل الطلبيات يتم شحنها وتوصيلها عبر شركائنا: أرامكس و بوسطة بلس</p><p>تتوفر خدمة الشحن المجاني على الطلبات بقيمة 50 دينار أو أكثر. للطلبات التي تقل قيمتها عن 50 دينار، تترتب رسوم توصيل بقيمة 5 دينار.</p><p>موعد التوصيل المتوقع من 5-7 أيام عمل. النظارات الطبية تتطلب 3 أيام إضافية حتى تتم عملية التفصيل في مختبراتنا الشريكة.</p>",
+  "prescriptionData": {
+    "infoText": {
+      "icon": "https://cdn.eyewa.com/contents/assets/icons/tooltip.svg",
+      "title": "سنحصل على وصفتك الطبية لاحقًا"
+    },
+    "glassFeatures": [
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "تشمل عدسات عادية ذات جودة عالية"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "نضمن لك استعادة المبلغ خلال 30 يوم"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/contents/assets/icons/icon.check.svg",
+        "title": "عدسات رقيقة وخفيفة حسب الوصفة الخاصة بك"
+      }
+    ],
+    "lenseFeatures": [
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Thin.svg",
+        "text": "نحيفة وخفيفة"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Water.svg",
+        "text": "مضادة للماء"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Smudge.svg",
+        "text": "مضادة للبقع"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Scratch.svg",
+        "text": "مضادة للخدش"
+      },
+      {
+        "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Glasses.svg",
+        "text": "مضادة للانعكاس"
+      }
+    ],
+    "prescriptionContent": {
+        "Blue Light Filter": {
+          "description": "تساعد في تقليل الإجهاد البصري الناتج من الاستخدام المفرط للشاشة",
+          "title": "مرشح الضوء الأزرق"
+        },
+        "Non-Prescription": {
+          "description": "طبية مغلفة بعناية جاهزة للارتداء",
+          "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.non-prescription.svg",
+          "title": "عدسات شفافة بدون وصفة"
+        },
+        "Prescription": {
+          "description": "بوصفة طبية للرؤية البعيدة أو القريبة",
+          "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.mountain.svg",
+          "title": "عدسات أحادية الرؤية"
+        },
+        "Reading Glasses": {
+          "description": "نظارات قراءة مكبرة",
+          "icon": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.book.svg",
+          "title": "نظارات قراءة"
+        },
+        "Blue Light Filter + Transition": {
+          "description": "تقلل من إرهاق العين الناتج عن الإستخدام المفرط للشاشات الرقمية تتكيف بسرعة مع الإضاءة المتغيرة",
+          "title": "فلتر الضوء الأزرق + العدسات المتغيره بالضوء",
+          "icon": ""
+        },
+        "Transition": {
+          "description": "تتكيف العدسة بسرعة مع ظروف الإضاءة المتغيرة، تغمق العدسة مع ضوء الشمس أو مع الإضاءة الساطعة ",
+          "title": " العدسات المتغيره بالضوء",
+          "icon": ""
+        },
+        "Tinted": {
+          "description": "أضف لون على العدسة لتجربة رؤية عالية التباين، حتى في الوهج أو الإنارة المنتشرة",
+          "title": "ملونة",
+          "icon": ""
+        },
+        "Progressive": {
+          "description": "عدسات خالية من الخطوط ثلاثية الرؤية لمسافات مختلفة: البعيدة، المتوسطة والقريبة",
+          "title": "العدسات المدمجة",
+          "icon": ""
+        },
+        "Single vision": {
+          "description": "العدسات الطبية الأكثر شيوعاً، والتي تستخدم للرؤية عن بعد أو قرب",
+          "title": " أحادية الرؤية ",
+          "icon": ""
+        },
+        "Bifocal": {
+          "description": "عدسات ثنائية الرؤية (البعيدة والقريبة) يفصل بينهما خط مرئي.",
+          "title": " ثنائية البؤرة",
+          "icon": ""
+        },
+        "Standard Lenses": {
+          "description": "عدسات عادية تتضمن طبقات مقاومة للماء والانعكاس والخدش",
+          "title": "عدسة بدون وصفة طبية"
+        }
+      },
+    "prescriptionMoreInfoPopup": {
+      "title": "ماذا يعني هذا",
+      "content": [
+        {
+          "title": "وصفة طبية (رؤية واحدة)",
+          "description": "عدسات الرؤية الواحدة هي عدسات مع وصفة عادية للنظارات. هذه النظارات مخصصة لمجال رؤية واحدة عبر العدسة بأكملها. عدسات الرؤية الواحدة من الممكن أن تكون بوصفة للرؤية البعيدة أو نظارات قراءة ذات رؤية تقريبية.",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.color-mountain.svg",
+            "className": "mountain"
+          }
+        },
+        {
+          "title": "نظارات القراءة",
+          "description": "توفر نظارات القراءة تكبيرًا بسيطًا كي تساعدك على رؤية الأشياء القريبة منك. تأتي هذه النظارات بنقاط قوة عامة لتحسين رؤية مرتديها أثناء القراءة.",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.color-book.svg",
+            "className": "book"
+          }
+        },
+        {
+          "title": "عدسات بدون وصفة طبية",
+          "description": "تأتي هذه العدسات بدون وصفة طبية. تتضمن على عدسات عادية صلبة مطلية لا توفر أي تصحيح للرؤية.",
+          "image": {
+            "src": "https://cdn.eyewa.com/media/pwa/images/product/prescription/icon.non-prescription.svg",
+            "className": "prescription"
+          }
+        }
+      ]
+    }
+  },
+  "clickAndCollectPopupData": null
+}

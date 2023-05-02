@@ -1,5 +1,5 @@
 {
-  "shippingInfo": "<p>All orders are shipped with our partners.</p><p>For orders over AED 199, delivery is free of charge. For orders below AED 199, delivery charge is AED 9.</p><p>For orders placed using click and collect, delivery is free of charge.</p><p>&nbsp;</p><p>Expected delivery in the next business day. Prescription eyeglasses and contact lenses may need an extra 3 days to deliver.*</p>",
+  "shippingInfo": "<p>All orders are shipped with our partners.</p><p>For orders over AED 199, delivery is free of charge. For orders below AED 199, delivery charge is AED 9.</p><p>For orders placed using click and collect, delivery is free of charge.</p><p>Expected delivery in the next business day. Prescription eyeglasses and contact lenses may need an extra 3 days to deliver.*</p>",
   "prescriptionData": {
     "infoText": {
       "icon": "https://cdn.eyewa.com/contents/assets/icons/tooltip.svg",
@@ -22,7 +22,7 @@
     "lenseFeatures": [
       {
         "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Thin.svg",
-        "text": "Thin  Light"
+        "text": "Thin & Light"
       },
       {
         "icon": "https://cdn.eyewa.com/assets/pwa/images/product/prescription/Water.svg",
@@ -65,14 +65,14 @@
         "description": "Our lenses come standard with water repellent, anti-reflective, and scratch resistant coatings",
         "title": "Standard Lenses"
       },
-      "Blue Light Filter + Photochromic": {
-        "description": "Reduce visual fatigue from excessive screen use  react quickly to changing light conditions",
-        "title": "Blue Light Filter + Photochromic",
+      "Blue Light Filter + Transition": {
+        "description": "Reduce visual fatigue from excessive screen use & react quickly to changing light conditions",
+        "title": "Blue Light Filter + Transition",
         "icon": ""
       },
-      "Photochromic": {
+      "Transition": {
         "description": "The lens will react quickly to changing light conditions, darkening outside or in bright sunlight",
-        "title": "Photochromic",
+        "title": "Transition",
         "icon": ""
       },
       "Tinted": {
@@ -132,22 +132,22 @@
     "ctaText": "Learn more",
     "data": [
       {
-        "title": "Click  Collect",
+        "title": "Click & Collect",
         "content": "It is a free service that allows you to conveniently collect your order from more than 1000 pick-up locations in UAE.",
         "image": "",
         "children": [
           {
-            "title": "Click  Collect",
+            "title": "Click & Collect",
             "content": "<strong>Find and select </strong>a location near you",
             "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Map.svg"
           },
           {
-            "title": "Click  Collect",
+            "title": "Click & Collect",
             "content": "<strong>We will deliver </strong>your order to the selected pick-up location",
             "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Truck.svg"
           },
           {
-            "title": "Click  Collect",
+            "title": "Click & Collect",
             "content": "The package<strong> will be kept safely </strong>until you pick it up",
             "image": "https://cdn.eyewa.com/media/pwa/images/shipping-details/Bag.svg"
           }
