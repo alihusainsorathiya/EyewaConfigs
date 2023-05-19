@@ -1,27 +1,246 @@
-select p.entity_id  as entity_id,
-   if(pp.level = 1,
-      n.value,
-      concat_ws (' / ', pn.value, n.value)) as name,
-   date(p.created_at) as created_at
-from
-   catalog_category_entity p
-   -- name
-   left join catalog_category_entity_varchar n on
-      p.entity_id = n.entity_id and n.attribute_id = 41
-   -- status
-   left join catalog_category_entity_int s on
-      p.entity_id = s.entity_id and s.attribute_id = 42 and
-      s.store_id = 0
-   -- parent
-   left join catalog_category_entity pp on p.parent_id = pp.entity_id
-   -- parent name
-   left join catalog_category_entity_varchar pn on
-      pp.entity_id = pn.entity_id and pn.attribute_id = 41 and
-      pn.store_id = 0
-where
-   s.value = 1 and
-    -- status is active
-   p.level >= 2 
-order by
-   2
-;
+{
+  "target": "_self",
+  "name": "نظارات شمسية",
+  "url": "/{{customVar code=storeCode}}/sunglasses.html",
+  "index": 0,
+  "desktop": true,
+  "mobile": true,
+  "children": [
+    {
+      "target": "_self",
+      "name": "اختياراتنا",
+      "url": "#",
+      "index": 0,
+      "desktop": true,
+      "mobile": true,
+      "children": [
+        {
+          "target": "_self",
+          "name": "وصل حديثاً",
+          "url": "/{{customVar code=storeCode}}/sunglasses/new-in.html",
+          "index": 0,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "الأكثر مبيعاً",
+          "url": "/{{customVar code=storeCode}}/sunglasses/best-sellers.html",
+          "index": 1,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        }
+      ],
+      "hideOnDesktop": false
+    },
+    {
+      "target": "_self",
+      "name": "الجنس",
+      "url": "#",
+      "index": 1,
+      "desktop": true,
+      "mobile": true,
+      "children": [
+        {
+          "target": "_self",
+          "name": "نظارات شمسية نسائية",
+          "url": "/{{customVar code=storeCode}}/sunglasses/women.html",
+          "index": 0,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية رجالي",
+          "url": "/{{customVar code=storeCode}}/sunglasses/men.html",
+          "index": 1,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية للأطفال",
+          "url": "/{{customVar code=storeCode}}/sunglasses/kids.html",
+          "index": 2,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        }
+      ],
+      "hideOnDesktop": false
+    },
+    {
+      "target": "_self",
+      "name": "أشكال النظارات الشمسية",
+      "url": "#",
+      "index": 2,
+      "desktop": true,
+      "mobile": true,
+      "children": [
+        {
+          "target": "_self",
+          "name": "نظارات شمسية افياتور",
+          "url": "/{{customVar code=storeCode}}/sunglasses/aviator.html",
+          "index": 5,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية دائرية",
+          "url": "/{{customVar code=storeCode}}/sunglasses/round.html",
+          "index": 4,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية مربعة",
+          "url": "/{{customVar code=storeCode}}/sunglasses/square.html",
+          "index": 3,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية كات آي",
+          "url": "/{{customVar code=storeCode}}/sunglasses/cat-eye.html",
+          "index": 0,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية مستطيلة",
+          "url": "/{{customVar code=storeCode}}/sunglasses/rectangle.html",
+          "index": 1,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية سداسية",
+          "url": "/{{customVar code=storeCode}}/sunglasses/hexagon.html",
+          "index": 2,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "جميع الأشكال",
+          "url": "/{{customVar code=storeCode}}/sunglasses.html",
+          "index": 6,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        }
+      ],
+      "hideOnDesktop": false
+    },
+    {
+      "target": "_self",
+      "name": "ماركات النظارات الشمسية",
+      "url": "#",
+      "index": 3,
+      "desktop": true,
+      "mobile": true,
+      "children": [
+        {
+          "target": "_self",
+          "name": "نظارات شمسية 30 سندايز",
+          "url": "/{{customVar code=storeCode}}/sunglasses/30sundays.html",
+          "index": 0,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية بلاك اوت",
+          "url": "/{{customVar code=storeCode}}/sunglasses/blackout.html",
+          "index": 1,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية باباميو",
+          "url": "/{{customVar code=storeCode}}/sunglasses/babamio.html",
+          "index": 2,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية هيوجو",
+          "url": "/{{customVar code=storeCode}}/sunglasses/hugo.html",
+          "index": 3,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": true
+        },
+
+        {
+          "target": "_self",
+          "name": "نظارات روف الشمسية",
+          "url": "/{{customVar code=storeCode}}/sunglasses/roav.html",
+          "index": 4,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية تومي هيلفيغر",
+          "url": "/{{customVar code=storeCode}}/sunglasses/tommy-hilfiger.html",
+          "index": 5,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "نظارات شمسية جيس",
+          "url": "/{{customVar code=storeCode}}/guess.html",
+          "index": 6,
+          "desktop": true,
+          "mobile": true,
+          "children": [],
+          "hideOnDesktop": false
+        }
+      ],
+      "hideOnDesktop": false
+    }
+  ],
+  "hideOnDesktop": false
+}
