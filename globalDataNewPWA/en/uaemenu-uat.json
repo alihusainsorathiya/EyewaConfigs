@@ -1,251 +1,250 @@
 {
   "headerMenu": [
-{
-    "target": "_self",
-    "name": "Sunglasses",
-    "url": "/{{customVar code=storeCode}}/sunglasses.html",
-    "index": 0,
-    "desktop": true,
-    "mobile": true,
-    "children": [
-      {
-        "target": "_self",
-        "name": "Gender",
-        "url": "#",
-        "index": 0,
-        "desktop": true,
-        "mobile": true,
-        "children": [
-          {
-            "target": "_self",
-            "name": "Women's Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/women.html",
-            "index": 0,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Men's Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/men.html",
-            "index": "",
-            "desktop": true,
-            "mobile": true,
-            "children": []
-          },
-          {
-            "target": "_self",
-            "name": "Kids Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/kids.html",
-            "index": "",
-            "desktop": true,
-            "mobile": true,
-            "children": []
-          }
-        ],
-        "hideOnDesktop": false
-      },
-      {
-        "target": "_self",
-        "name": "Sunglasses Shapes",
-        "url": "#",
-        "index": 1,
-        "desktop": true,
-        "mobile": true,
-        "children": [
-          {
-            "target": "_self",
-            "name": "Aviator Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/aviator.html",
-            "index": 5,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Round Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/round.html",
-            "index": 4,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Square Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/square.html",
-            "index": 3,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Cat Eye Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/cat-eye.html",
-            "index": 0,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Rectangle Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/rectangle.html",
-            "index": 1,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Hexagon Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/hexagon.html",
-            "index": 2,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "All Sunglasses Shapes",
-            "url": "/{{customVar code=storeCode}}/sunglasses.html",
-            "index": 6,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          }
-        ],
-        "hideOnDesktop": false
-      },
-      {
-        "target": "_self",
-        "name": "Sunglasses Brands",
-        "url": "#",
-        "index": 2,
-        "desktop": true,
-        "mobile": true,
-        "children": [
-          {
-            "target": "_self",
-            "name": "30Sundays Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/30sundays.html",
-            "index": 0,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Blackout Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/blackout.html",
-            "index": 1,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Babamio Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/babamio.html",
-            "index": 2,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-      
-          {
-            "target": "_self",
-            "name": "Hugo Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/hugo.html",
-            "index": 3,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-      
-      
-          {
-            "target": "_self",
-            "name": "Roav Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/roav.html",
-            "index": 4,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Tommy Hilfiger Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/tommy-hilfiger.html",
-            "index": 5,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Guess Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/guess.html",
-            "index": 6,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          }
-        ],
-        "hideOnDesktop": false
-      },
-      {
-        "target": "_self",
-"name": "TOP PICKS",
-        "url": "#",
-        "index": 3,
-        "desktop": true,
-        "mobile": true,
-        "children": [
-          {
-            "target": "_self",
-            "name": "New-In",
-            "url": "/{{customVar code=storeCode}}/sunglasses/new-in.html",
-            "index": 0,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Bestsellers",
-            "url": "/{{customVar code=storeCode}}/sunglasses/best-sellers.html",
-            "index": 1,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          }
-        ],
-        "hideOnDesktop": false
-      }
-    ],
-    "hideOnDesktop": false
-  },
+    {
+      "target": "_self",
+      "name": "Sunglasses",
+      "url": "/{{customVar code=storeCode}}/sunglasses.html",
+      "index": 0,
+      "desktop": true,
+      "mobile": true,
+      "children": [
+        {
+          "target": "_self",
+          "name": "TOP PICKS",
+          "url": "#",
+          "index": 0,
+          "desktop": true,
+          "mobile": true,
+          "children": [
+            {
+              "target": "_self",
+              "name": "New-In",
+              "url": "/{{customVar code=storeCode}}/sunglasses/new-in.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Bestsellers",
+              "url": "/{{customVar code=storeCode}}/sunglasses/best-sellers.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "Gender",
+          "url": "#",
+          "index": 1,
+          "desktop": true,
+          "mobile": true,
+          "children": [
+            {
+              "target": "_self",
+              "name": "Women's Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/women.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Men's Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/men.html",
+              "index": "",
+              "desktop": true,
+              "mobile": true,
+              "children": []
+            },
+            {
+              "target": "_self",
+              "name": "Kids Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/kids.html",
+              "index": "",
+              "desktop": true,
+              "mobile": true,
+              "children": []
+            }
+          ],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "Sunglasses Shapes",
+          "url": "#",
+          "index": 2,
+          "desktop": true,
+          "mobile": true,
+          "children": [
+            {
+              "target": "_self",
+              "name": "Aviator Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/aviator.html",
+              "index": 5,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Round Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/round.html",
+              "index": 4,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Square Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/square.html",
+              "index": 3,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Cat Eye Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/cat-eye.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Rectangle Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/rectangle.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Hexagon Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/hexagon.html",
+              "index": 2,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "All Sunglasses Shapes",
+              "url": "/{{customVar code=storeCode}}/sunglasses.html",
+              "index": 6,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "Sunglasses Brands",
+          "url": "#",
+          "index": 3,
+          "desktop": true,
+          "mobile": true,
+          "children": [
+            {
+              "target": "_self",
+              "name": "30Sundays Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/30sundays.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Blackout Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/blackout.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Babamio Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/babamio.html",
+              "index": 2,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+
+            {
+              "target": "_self",
+              "name": "Hugo Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/hugo.html",
+              "index": 3,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+
+            {
+              "target": "_self",
+              "name": "Roav Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/roav.html",
+              "index": 4,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Tommy Hilfiger Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/tommy-hilfiger.html",
+              "index": 5,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Guess Sunglasses",
+              "url": "/{{customVar code=storeCode}}/sunglasses/guess.html",
+              "index": 6,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ],
+          "hideOnDesktop": false
+        }
+      ],
+      "hideOnDesktop": false
+    },
     {
       "target": "_self",
       "name": "Glasses",
@@ -629,44 +628,8 @@
             }
           ]
         },
+
         {
-          "name": "Solutions and Eye Drops",
-          "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
-          "target": "_self",
-          "index": "",
-          "hideOnDesktop": false,
-          "children": [
-            {
-              "name": "Alcon Lens Solutions",
-              "url": "/{{customVar code=storeCode}}/solutions-and-drops/alcon.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "CooperVision Multipurpose Solution",
-              "url": "/{{customVar code=storeCode}}/solutions-and-drops/coopervision.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Renu Multi-plus Lens Solution",
-              "url": "/{{customVar code=storeCode}}/solutions-and-drops/renu.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Biotrue Lens Solution",
-              "url": "/{{customVar code=storeCode}}/solutions-and-drops/biotrue.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            }
-          ]
-        },
-               {
           "name": "Contact Lenses for Astigmatism",
           "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism.html",
           "target": "_self",
@@ -912,7 +875,7 @@
       ],
       "hideOnDesktop": false
     },
-       {
+    {
       "target": "_self",
       "name": "Accessories",
       "url": "/{{customVar code=storeCode}}/accessories.html",
@@ -937,6 +900,28 @@
             {
               "name": "Cases",
               "url": "/{{customVar code=storeCode}}/accessories/sunglasses-cases.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+
+            {
+              "name": "Solutions and Eye Drops",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+            {
+              "name": "Cleaning Kit",
+              "url": "/{{customVar code=storeCode}}/accessories/cleaning-kit.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
+            {
+              "name": "Solutions and Eye Drops",
+              "url": "/{{customVar code=storeCode}}/accessories/solutions-and-drops.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
@@ -994,7 +979,13 @@
               "index": "",
               "hideOnDesktop": false
             },
-    
+            {
+              "name": "Sunny Cords Accessories",
+              "url": "/{{customVar code=storeCode}}/accessories/sunny-cords.html",
+              "target": "_self",
+              "index": "",
+              "hideOnDesktop": false
+            },
             {
               "name": "Any Di Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/any-di.html",
@@ -1033,23 +1024,26 @@
       "link": "/{{customVar code=storeCode}}/return-policy"
     }
   ],
- "iconLinks": [
+  "iconLinks": [
     {
       "index": 0,
       "link": "#",
       "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/delivery.svg",
+      "iconPng": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/ic_delivery.png",
       "label": "Fast Delivery"
     },
     {
       "index": 1,
       "link": "#",
       "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/return.svg",
+      "iconPng": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/ic_return.png",
       "label": "Free 30-Day Return/Exchange"
     },
     {
       "index": 2,
       "link": "#",
       "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/original.svg",
+      "iconPng": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/ic_original.png",
       "label": "100% Original Products"
     }
   ],
@@ -1097,14 +1091,14 @@
   "newsletterDescription": "Subscribe to our newsletter and get our latest offers.",
   "newsletterSubscribeEmailPlaceholder": "Enter your email",
   "newsletterSubmitLabel": "Sign Up",
-  "phone": "+973 1616 3523",
+  "phone": "04247 2979",
   "email": "customercare@eyewa.com",
   "workingHours": "Everyday 8am - 12am",
   "shipWithLogos": ["https://cdn.eyewa.com/media/icons/our-guranatee.svg"],
   "shipWithTitle": "",
   "weAcceptTitle": "We accept",
   "weAcceptLogos": [
-    "https://cdn.eyewa.com/contents/assets/icons/payments-accepted/payments-accepted-Bahrain.svg"
+    "https://cdn.eyewa.com/contents/assets/icons/payments-accepted/payments-accepted-United-Arab-Emirates.svg"
   ],
   "sslText": "Ensuring safe and secure payments.",
   "sslImage": "https://cdn.eyewa.com/contents/assets/icons/ssl.svg",
@@ -1122,7 +1116,7 @@
     {
       "url": "https://www.facebook.com/eyewaME/",
       "name": "facebook",
-      "alt": "Face"
+      "alt": "Facebook"
     },
     {
       "url": "https://twitter.com/eyewaME",
@@ -1204,8 +1198,16 @@
           "url": "/{{customVar code=storeCode}}/about-us"
         },
         {
+          "label": "Our Stores",
+          "url": "/{{customVar code=storeCode}}/store-locator"
+        },
+        {
           "label": "Contact us",
           "url": "/{{customVar code=storeCode}}/contact-us"
+        },
+        {
+          "label": "Insurance",
+          "url": "/{{customVar code=storeCode}}/insurance"
         },
         { "label": "Careers", "url": "/{{customVar code=storeCode}}/careers" },
         {
@@ -1252,6 +1254,10 @@
         {
           "label": "Contact Us",
           "url": "/{{customVar code=storeCode}}/mobile/contact-us"
+        },
+        {
+          "label": "Insurance",
+          "url": "/{{customVar code=storeCode}}/mobile/insurance"
         },
         {
           "label": "Coupon",

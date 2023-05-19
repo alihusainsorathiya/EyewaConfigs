@@ -1,524 +1,402 @@
 {
   "headerMenu": [
-{
-    "target": "_self",
-    "name": "Sunglasses",
-    "url": "/{{customVar code=storeCode}}/sunglasses.html",
-    "index": 0,
-    "desktop": true,
-    "mobile": true,
-    "children": [
-      {
-        "target": "_self",
-        "name": "Gender",
-        "url": "#",
-        "index": 0,
-        "desktop": true,
-        "mobile": true,
-        "children": [
-          {
-            "target": "_self",
-            "name": "Women's Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/women.html",
-            "index": 0,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Men's Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/men.html",
-            "index": "",
-            "desktop": true,
-            "mobile": true,
-            "children": []
-          },
-          {
-            "target": "_self",
-            "name": "Kids Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/kids.html",
-            "index": "",
-            "desktop": true,
-            "mobile": true,
-            "children": []
-          }
-        ],
-        "hideOnDesktop": false
-      },
-      {
-        "target": "_self",
-        "name": "Sunglasses Shapes",
-        "url": "#",
-        "index": 1,
-        "desktop": true,
-        "mobile": true,
-        "children": [
-          {
-            "target": "_self",
-            "name": "Aviator Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/aviator.html",
-            "index": 5,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Round Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/round.html",
-            "index": 4,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Square Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/square.html",
-            "index": 3,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Cat Eye Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/cat-eye.html",
-            "index": 0,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Rectangle Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/rectangle.html",
-            "index": 1,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Hexagon Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/hexagon.html",
-            "index": 2,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "All Sunglasses Shapes",
-            "url": "/{{customVar code=storeCode}}/sunglasses.html",
-            "index": 6,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          }
-        ],
-        "hideOnDesktop": false
-      },
-      {
-        "target": "_self",
-        "name": "Sunglasses Brands",
-        "url": "#",
-        "index": 2,
-        "desktop": true,
-        "mobile": true,
-        "children": [
-          {
-            "target": "_self",
-            "name": "30Sundays Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/30sundays.html",
-            "index": 0,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Blackout Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/blackout.html",
-            "index": 1,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Babamio Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/babamio.html",
-            "index": 2,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-      
-          {
-            "target": "_self",
-            "name": "Hugo Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/hugo.html",
-            "index": 3,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-      
-      
-          {
-            "target": "_self",
-            "name": "Roav Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/roav.html",
-            "index": 4,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Tommy Hilfiger Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/tommy-hilfiger.html",
-            "index": 5,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Guess Sunglasses",
-            "url": "/{{customVar code=storeCode}}/sunglasses/guess.html",
-            "index": 6,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          }
-        ],
-        "hideOnDesktop": false
-      },
-      {
-        "target": "_self",
-"name": "TOP PICKS",
-        "url": "#",
-        "index": 3,
-        "desktop": true,
-        "mobile": true,
-        "children": [
-          {
-            "target": "_self",
-            "name": "New-In",
-            "url": "/{{customVar code=storeCode}}/sunglasses/new-in.html",
-            "index": 0,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          },
-          {
-            "target": "_self",
-            "name": "Bestsellers",
-            "url": "/{{customVar code=storeCode}}/sunglasses/best-sellers.html",
-            "index": 1,
-            "desktop": true,
-            "mobile": true,
-            "children": [],
-            "hideOnDesktop": false
-          }
-        ],
-        "hideOnDesktop": false
-      }
-    ],
-    "hideOnDesktop": false
-  },
     {
       "target": "_self",
-      "name": "Glasses",
-      "url": "/{{customVar code=storeCode}}/glasses.html",
-      "index": "",
+      "name": "نظارات شمسية",
+      "url": "/{{customVar code=storeCode}}/sunglasses.html",
+      "index": 0,
       "desktop": true,
       "mobile": true,
       "children": [
         {
-          "name": "Gender",
+          "target": "_self",
+          "name": "الجنس",
+          "url": "#",
+          "index": 0,
+          "desktop": true,
+          "mobile": true,
+          "children": [
+            {
+              "target": "_self",
+              "name": "نظارات شمسية نسائية",
+              "url": "/{{customVar code=storeCode}}/sunglasses/women.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية رجالي",
+              "url": "/{{customVar code=storeCode}}/sunglasses/men.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية للأطفال",
+              "url": "/{{customVar code=storeCode}}/sunglasses/kids.html",
+              "index": 2,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "أشكال النظارات الشمسية",
+          "url": "#",
+          "index": 1,
+          "desktop": true,
+          "mobile": true,
+          "children": [
+            {
+              "target": "_self",
+              "name": "نظارات شمسية افياتور",
+              "url": "/{{customVar code=storeCode}}/sunglasses/aviator.html",
+              "index": 5,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية دائرية",
+              "url": "/{{customVar code=storeCode}}/sunglasses/round.html",
+              "index": 4,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية مربعة",
+              "url": "/{{customVar code=storeCode}}/sunglasses/square.html",
+              "index": 3,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية كات آي",
+              "url": "/{{customVar code=storeCode}}/sunglasses/cat-eye.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية مستطيلة",
+              "url": "/{{customVar code=storeCode}}/sunglasses/rectangle.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية سداسية",
+              "url": "/{{customVar code=storeCode}}/sunglasses/hexagon.html",
+              "index": 2,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "جميع الأشكال",
+              "url": "/{{customVar code=storeCode}}/sunglasses.html",
+              "index": 6,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "ماركات النظارات الشمسية",
+          "url": "#",
+          "index": 2,
+          "desktop": true,
+          "mobile": true,
+          "children": [
+            {
+              "target": "_self",
+              "name": "نظارات شمسية 30 سندايز",
+              "url": "/{{customVar code=storeCode}}/sunglasses/30sundays.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية بلاك اوت",
+              "url": "/{{customVar code=storeCode}}/sunglasses/blackout.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية باباميو",
+              "url": "/{{customVar code=storeCode}}/sunglasses/babamio.html",
+              "index": 2,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية هيوجو",
+              "url": "/{{customVar code=storeCode}}/sunglasses/hugo.html",
+              "index": 3,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": true
+            },
+            {
+              "target": "_self",
+              "name": "نظارات روف الشمسية",
+              "url": "/{{customVar code=storeCode}}/sunglasses/roav.html",
+              "index": 4,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية تومي هيلفيغر",
+              "url": "/{{customVar code=storeCode}}/sunglasses/tommy-hilfiger.html",
+              "index": 5,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "نظارات شمسية جيس",
+              "url": "/{{customVar code=storeCode}}/guess.html",
+              "index": 6,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ],
+          "hideOnDesktop": false
+        },
+        {
+          "target": "_self",
+          "name": "اختياراتنا",
+          "url": "#",
+          "index": 3,
+          "desktop": true,
+          "mobile": true,
+          "children": [
+            {
+              "target": "_self",
+              "name": "وصل حديثاً",
+              "url": "/{{customVar code=storeCode}}/sunglasses/new-in.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "الأكثر مبيعاً",
+              "url": "/{{customVar code=storeCode}}/sunglasses/best-sellers.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ],
+          "hideOnDesktop": false
+        }
+      ],
+      "hideOnDesktop": false
+    },
+    {
+      "target": "_self",
+      "name": "نظارات طبية",
+      "url": "/{{customVar code=storeCode}}/glasses.html",
+      "index": 1,
+      "desktop": true,
+      "mobile": true,
+      "children": [
+        {
+          "name": "الجنس",
           "url": "#",
           "target": "_self",
           "index": 0,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Women's Glasses",
+              "name": "نظارات طبية نسائية",
               "url": "/{{customVar code=storeCode}}/glasses/women.html",
               "target": "_self",
               "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Men's Glasses",
+              "name": "نظارات طبية للرجال",
               "url": "/{{customVar code=storeCode}}/glasses/men.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Kids Glasses",
+              "name": "نظارات طبية للأطفال",
               "url": "/{{customVar code=storeCode}}/glasses/kids.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             }
           ]
         },
         {
-          "name": "Glasses Shapes",
+          "name": "أشكال النظارات الطبية",
           "url": "#",
           "target": "_self",
           "index": 1,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Aviator Glasses",
+              "name": "نظارات طبية افياتور",
               "url": "/{{customVar code=storeCode}}/glasses/aviator.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Cat Eye Glasses",
+              "name": "نظارات طبية كات آي",
               "url": "/{{customVar code=storeCode}}/glasses/cat-eye.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Hexagon Glasses",
+              "name": "نظارات طبية سداسية",
               "url": "/{{customVar code=storeCode}}/glasses/hexagon.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             },
             {
-              "name": "Rectangle Glasses",
+              "name": "نظارات طبية مستطيلة",
               "url": "/{{customVar code=storeCode}}/glasses/rectangle.html",
               "target": "_self",
-              "index": "",
+              "index": 3,
               "hideOnDesktop": false
             },
             {
-              "name": "Round Glasses",
+              "name": "نظارات طبية دائرية",
               "url": "/{{customVar code=storeCode}}/glasses/round.html",
               "target": "_self",
-              "index": "",
+              "index": 4,
               "hideOnDesktop": false
             },
             {
-              "name": "Square Glasses",
+              "name": "نظارات طبية مربعة",
               "url": "/{{customVar code=storeCode}}/glasses/square.html",
               "target": "_self",
-              "index": "",
+              "index": 5,
               "hideOnDesktop": false
             },
             {
-              "name": "All Shapes",
+              "name": "جميع الأشكال",
               "url": "/{{customVar code=storeCode}}/glasses.html",
               "target": "_self",
-              "index": "",
+              "index": 6,
               "hideOnDesktop": false
             }
           ]
         },
         {
-          "name": "Glasses Material",
+          "name": "نوع إطار النظارات الطبية",
           "url": "#",
           "target": "_self",
-          "index": 1,
+          "index": 2,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Titanium Glasses",
+              "name": "نظارت طبية تيتانيوم",
               "url": "/{{customVar code=storeCode}}/glasses/titanium-glasses.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Acetate Glasses",
+              "name": "نظارات طبية أسيتات",
               "url": "/{{customVar code=storeCode}}/glasses/acetate-glasses.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Metal Glasses",
+              "name": "نظارات طبية معدنيّة",
               "url": "/{{customVar code=storeCode}}/glasses/metal-glasses.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             }
           ]
         },
         {
-          "name": "Reading Glasses",
+          "name": "نظارات للقراءة",
           "url": "/{{customVar code=storeCode}}/reading-glasses.html",
           "target": "_self",
           "index": 3,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Men Reading Glasses",
+              "name": "نظارات القراءة للرجال",
               "url": "/{{customVar code=storeCode}}/reading-glasses/men.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Women Reading Glasses",
+              "name": "نظارات القراءة للنساء",
               "url": "/{{customVar code=storeCode}}/reading-glasses/women.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Spectus Reading Glasses",
+              "name": "سبيكتوس نظارات للقراءة",
               "url": "/{{customVar code=storeCode}}/reading-glasses/spectus.html",
               "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "target": "_self",
-      "name": "Computer & Blue Light Glasses",
-      "url": "/{{customVar code=storeCode}}/blue-light-glasses.html",
-      "index": 2,
-      "desktop": true,
-      "mobile": true,
-      "children": [
-        {
-          "name": "Gender",
-          "url": "#",
-          "target": "_self",
-          "index": "",
-          "hideOnDesktop": false,
-          "children": [
-            {
-              "name": "Women Blue Light Glasses",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses/women.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Men's Blue Light Glasses",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses/men.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Kids Blue Light Glasses",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses/kids.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            }
-          ]
-        },
-        {
-          "name": "Blue Light Glasses By Shapes",
-          "url": "#",
-          "target": "_self",
-          "index": "",
-          "hideOnDesktop": false,
-          "children": [
-            {
-              "name": "Rectangle Blue Light Glasses",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses/rectangle.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Round Blue Light Glasses",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses/round.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Square Blue Light Glasses",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses/square.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Cat Eye Blue Light Glasses",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses/cat-eye.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Aviator Blue Light Glasses",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses/aviator.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "All Shapes",
-              "url": "/{{customVar code=storeCode}}/blue-light-glasses.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            }
-          ]
-        },
-        {
-          "name": "Reading Glasses",
-          "url": "/{{customVar code=storeCode}}/reading-glasses.html",
-          "target": "_self",
-          "index": "",
-          "hideOnDesktop": false,
-          "children": [
-            {
-              "name": "Men Reading Glasses",
-              "url": "/{{customVar code=storeCode}}/reading-glasses/men.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Women Reading Glasses",
-              "url": "/{{customVar code=storeCode}}/reading-glasses/women.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Spectus Reading Glasses",
-              "url": "/{{customVar code=storeCode}}/reading-glasses/spectus.html",
-              "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             }
           ]
@@ -528,195 +406,310 @@
     },
     {
       "target": "_self",
-      "name": "Corrective Contact Lenses",
+      "name": "نظارات كمبيوتر وحماية من الأشعة الزرقاء",
+      "url": "/{{customVar code=storeCode}}/blue-light-glasses.html",
+      "index": 2,
+      "desktop": true,
+      "mobile": true,
+      "children": [
+        {
+          "name": "الجنس",
+          "url": "#",
+          "target": "_self",
+          "index": 0,
+          "hideOnDesktop": false,
+          "children": [
+            {
+              "name": "نظارات بلو لايت للنساء",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses/women.html",
+              "target": "_self",
+              "index": 0,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "نظارات بلو لايت للرجال",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses/men.html",
+              "target": "_self",
+              "index": 1,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "نظارات بلو لايت للأطفال",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses/kids.html",
+              "target": "_self",
+              "index": 2,
+              "hideOnDesktop": false
+            }
+          ]
+        },
+        {
+          "name": "شكل الإطار",
+          "url": "#",
+          "target": "_self",
+          "index": 1,
+          "hideOnDesktop": false,
+          "children": [
+            {
+              "name": "نظارات بلو لايت مستطيلة",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses/rectangle.html",
+              "target": "_self",
+              "index": 0,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "نظارات بلو لايت دائرية",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses/round.html",
+              "target": "_self",
+              "index": 1,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "نظارات بلو لايت مربعة",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses/square.html",
+              "target": "_self",
+              "index": 2,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "نظارات بلو لايت كات آي",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses/cat-eye.html",
+              "target": "_self",
+              "index": 3,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "نظارات بلو لايت أفياتور",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses/aviator.html",
+              "target": "_self",
+              "index": 4,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "جميع الأشكال",
+              "url": "/{{customVar code=storeCode}}/blue-light-glasses.html",
+              "target": "_self",
+              "index": 5,
+              "hideOnDesktop": false
+            }
+          ]
+        },
+        {
+          "name": "نظارات للقراءة",
+          "url": "/{{customVar code=storeCode}}/reading-glasses.html",
+          "target": "_self",
+          "index": 3,
+          "hideOnDesktop": false,
+          "children": [
+            {
+              "name": "نظارات القراءة للرجال",
+              "url": "/{{customVar code=storeCode}}/reading-glasses/men.html",
+              "target": "_self",
+              "index": 0,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "نظارات القراءة للنساء",
+              "url": "/{{customVar code=storeCode}}/reading-glasses/women.html",
+              "target": "_self",
+              "index": 1,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "نظارات القراءة ذا بوك كلوب",
+              "url": "/{{customVar code=storeCode}}/reading-glasses/spectus.html",
+              "target": "_self",
+              "index": 2,
+              "hideOnDesktop": false
+            }
+          ]
+        }
+      ],
+      "hideOnDesktop": false
+    },
+    {
+      "target": "_self",
+      "name": "عدسات طبية",
       "url": "/{{customVar code=storeCode}}/corrective-contact-lenses.html",
       "index": 3,
       "desktop": true,
       "mobile": true,
       "children": [
         {
-          "name": "Contact Lenses Duration",
+          "name": "فترة إستخدام العدسات",
           "url": "#",
           "target": "_self",
-          "index": "",
+          "index": 0,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Daily Contact Lenses",
+              "name": "العدسات الطبية اليومية",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/daily.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Bi-Weekly Contact Lenses",
+              "name": "عدسات كل اسبوعين",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/bi-weekly.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Monthly Contact Lenses",
+              "name": "عدسات شهرية",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/monthly.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             },
             {
-              "name": "All Durations",
+              "name": "جميع الفترات",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses.html",
               "target": "_self",
-              "index": "",
+              "index": 3,
               "hideOnDesktop": false
             }
           ]
         },
         {
-          "name": "Contact Lenses Brands",
+          "name": "ماركات العدسات الطبية",
           "url": "#",
           "target": "_self",
-          "index": "",
+          "index": 1,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Everva Contact Lenses",
+              "name": "عدسات ايفيرفا الطبية",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/everva.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Acuvue Contact Lenses",
+              "name": "عدسات اكيوفيو الطبية",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/acuvue.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Dailies Contact Lenses",
+              "name": "عدسات ديليز الطبية",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/dailies.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             },
             {
-              "name": "Air Optix Contact Lenses",
+              "name": "عدسات اير اوبتكس الطبية",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/air-optix.html",
               "target": "_self",
-              "index": "",
+              "index": 3,
               "hideOnDesktop": false
             },
             {
-              "name": "Biofinity Contact Lenses",
+              "name": "عدسات بيوفينيتي الطبية",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/biofinity.html",
               "target": "_self",
-              "index": "",
+              "index": 4,
               "hideOnDesktop": false
             },
             {
-              "name": "Biotrue Contact Lenses",
-              "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/biotrue.html",
+              "name": "عدسات بيوميديكس الطبية",
+              "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/biomedics.html",
               "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "All Brands",
-              "url": "/{{customVar code=storeCode}}/corrective-contact-lenses.html",
-              "target": "_self",
-              "index": "",
+              "index": 5,
               "hideOnDesktop": false
             }
           ]
         },
         {
-          "name": "Solutions and Eye Drops",
+          "name": "محلول عدسات وقطرات معقمة للعين",
           "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
           "target": "_self",
-          "index": "",
+          "index": 2,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Alcon Lens Solutions",
+              "name": "محلول عدسات ألكون",
               "url": "/{{customVar code=storeCode}}/solutions-and-drops/alcon.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "CooperVision Multipurpose Solution",
+              "name": "محاليل وقطرات كوبر فيجين",
               "url": "/{{customVar code=storeCode}}/solutions-and-drops/coopervision.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Renu Multi-plus Lens Solution",
+              "name": "رينو ملتي بلس - محلول متعدد الاستعمالات",
               "url": "/{{customVar code=storeCode}}/solutions-and-drops/renu.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             },
             {
-              "name": "Biotrue Lens Solution",
+              "name": "بيوترو محلول للعدسات",
               "url": "/{{customVar code=storeCode}}/solutions-and-drops/biotrue.html",
               "target": "_self",
-              "index": "",
+              "index": 3,
               "hideOnDesktop": false
             }
           ]
         },
-               {
-          "name": "Contact Lenses for Astigmatism",
+        {
+          "name": "العدسات الطبية للإنحراف",
           "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism.html",
           "target": "_self",
-          "index": "",
+          "index": 2,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Acuvue Contact Lenses",
+              "name": "أكيوفيو عدسات لاصقة",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism/acuvue.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Dailies Contact Lenses",
+              "name": "ديليز عدسات لاصقة",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism/dailies.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Biofinity Contact Lenses",
+              "name": "بيوفنيتي عدسات لاصقة",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism/biofinity.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Air Optix Contact Lenses",
+              "name": "اير اوبـتكس عدسات لاصقة",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism/air-optix.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "PureVision Contact Lenses",
+              "name": "بيور فيجن عدسات لاصقة",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism/purevision.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "SofLens Contact Lenses",
+              "name": "سوفلنس عدسات لاصقة",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism/soflens.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Clariti Contact Lenses",
+              "name": "كلاريتي عدسات لاصقة",
               "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/astigmatism/clariti.html",
               "target": "_self",
               "index": "",
@@ -729,70 +722,56 @@
     },
     {
       "target": "_self",
-      "name": "Color Contact Lenses",
+      "name": "عدسات ملونة",
       "url": "/{{customVar code=storeCode}}/color-contact-lenses.html",
       "index": 4,
       "desktop": true,
       "mobile": true,
       "children": [
         {
-          "name": "Colors",
+          "name": "ألوان العدسات",
           "url": "#",
           "target": "_self",
-          "index": "",
+          "index": 0,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Blue Contact Lenses",
+              "name": "عدسات زرقاء",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/blue.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Hazel Contact Lenses",
+              "name": "عدسات عسلي",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/hazel.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Grey Contact Lenses",
+              "name": "عدسات رمادية",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/grey.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             },
             {
-              "name": "Green Contact Lenses",
+              "name": "عدسات خضراء",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/green.html",
               "target": "_self",
-              "index": "",
+              "index": 3,
               "hideOnDesktop": false
             },
             {
-              "name": "Brown Contact Lenses",
+              "name": "عدسات بنية",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/brown.html",
               "target": "_self",
-              "index": "",
+              "index": 4,
               "hideOnDesktop": false
             },
             {
-              "name": "Purple Contact Lenses",
-              "url": "/{{customVar code=storeCode}}/color-contact-lenses/purple.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": true
-            },
-            {
-              "name": "Gold Contact Lenses",
-              "url": "/{{customVar code=storeCode}}/color-contact-lenses/gold.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": true
-            },
-            {
-              "name": "All Colors",
+              "name": "جميع الألوان",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses.html",
               "target": "_self",
               "index": "",
@@ -801,146 +780,133 @@
           ]
         },
         {
-          "name": "Color Contact Lenses By Brands",
+          "name": "ماركات العدسات الملونة",
           "url": "#",
           "target": "_self",
-          "index": "",
+          "index": 1,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Layala Colored Lenses",
+              "name": "عدسات ليالا الملونة",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/layala.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Lensme Color Lenses",
-              "url": "/{{customVar code=storeCode}}/color-contact-lenses/lensme.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Diva Colored Lenses",
-              "url": "/{{customVar code=storeCode}}/color-contact-lenses/diva.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Amara Colored Lenses",
+              "name": "عدسات امارا الملونة",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/amara.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Anesthesia Colored Lenses",
-              "url": "/{{customVar code=storeCode}}/color-contact-lenses/anesthesia.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Freshlook Colored Lenses",
+              "name": "عدسات فريش لوك الملونة",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/freshlook.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             },
             {
-              "name": "Bella Colored Lenses",
+              "name": "عدسات بيلا الملونة",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/bella.html",
               "target": "_self",
-              "index": "",
+              "index": 3,
               "hideOnDesktop": false
             },
             {
-              "name": "All Brands",
-              "url": "/{{customVar code=storeCode}}/color-contact-lenses.html",
+              "name": "عدسات انستازيا الملونة",
+              "url": "/{{customVar code=storeCode}}/color-contact-lenses/anesthesia.html",
               "target": "_self",
-              "index": "",
+              "index": 4,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "عدسات كولور فيجن",
+              "url": "/{{customVar code=storeCode}}/color-contact-lenses/colorvision.html",
+              "target": "_self",
+              "index": 5,
               "hideOnDesktop": false
             }
           ]
         },
-{
-          "name": "Color Contact Lenses By Durations",
+        {
+          "name": "فترة استخدام العدسات الملونة",
           "url": "#",
           "target": "_self",
-          "index": "",
+          "index": 2,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Daily Color Lenses",
+              "name": "عدسات يومية ملونة",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/daily.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "Monthly Colored Contacts",
+              "name": "عدسات شهرية ملونة",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/monthly.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "3 Months Color Lenses",
+              "name": "عدسات ملونة 3 أشهر",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/3-months.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             },
             {
-              "name": "6 Months Color Lenses",
+              "name": "عدسات ملونة 6 أشهر",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses/6-months.html",
               "target": "_self",
-              "index": "",
+              "index": 3,
               "hideOnDesktop": false
             },
             {
-              "name": "All Durations",
+              "name": "جميع الفترات",
               "url": "/{{customVar code=storeCode}}/color-contact-lenses.html",
               "target": "_self",
-              "index": "",
+              "index": 4,
               "hideOnDesktop": false
             }
           ]
-        },        {
-          "name": "Solutions and Eye Drops",
+        },
+        {
+          "name": "محلول عدسات وقطرات معقمة للعين",
           "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
           "target": "_self",
-          "index": "",
+          "index": 2,
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Alcon Lens Solutions",
+              "name": "محلول عدسات ألكون",
               "url": "/{{customVar code=storeCode}}/solutions-and-drops/alcon.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
-              "name": "CooperVision Multipurpose Solution",
+              "name": "محاليل وقطرات كوبر فيجين",
               "url": "/{{customVar code=storeCode}}/solutions-and-drops/coopervision.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
-              "name": "Renu Multi-plus Lens Solution",
+              "name": "رينو ملتي بلس - محلول متعدد الاستعمالات",
               "url": "/{{customVar code=storeCode}}/solutions-and-drops/renu.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             },
             {
-              "name": "Biotrue Lens Solution",
+              "name": "بيوترو محلول للعدسات",
               "url": "/{{customVar code=storeCode}}/solutions-and-drops/biotrue.html",
               "target": "_self",
-              "index": "",
+              "index": 3,
               "hideOnDesktop": false
             }
           ]
@@ -948,46 +914,45 @@
       ],
       "hideOnDesktop": false
     },
-      {
+    {
       "target": "_self",
-      "name": "Accessories",
+      "name": "الاكسسوارات",
       "url": "/{{customVar code=storeCode}}/accessories.html",
       "index": 5,
       "desktop": true,
       "mobile": true,
       "children": [
         {
-          "name": "Type",
+          "name": "النوع",
           "url": "#",
           "target": "_self",
           "index": "",
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Chains",
+              "name": "سلاسل نظارات",
               "url": "/{{customVar code=storeCode}}/accessories/cords.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Cases",
+              "name": "حافظات للنظارات",
               "url": "/{{customVar code=storeCode}}/accessories/sunglasses-cases.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Cleaning Kit",
+              "name": "مجموعة العناية بالنظارات",
               "url": "/{{customVar code=storeCode}}/accessories/cleaning-kit.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-        
-              "name": "Solutions and Eye Drops",
-              "url": "/{{customVar code=storeCode}}/accessories/solutions-and-drops.html",
+              "name": "محاليل عدسات وقطرات معقمة للعين",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
@@ -995,28 +960,28 @@
           ]
         },
         {
-          "name": "Gender",
+          "name": "الجنس",
           "url": "#",
           "target": "_self",
           "index": "",
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Women Accessories",
+              "name": "اكسسوارات النظارات للنساء",
               "url": "/{{customVar code=storeCode}}/accessories/women.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Men Accessories",
+              "name": "اكسسوارات النظارات للرجال",
               "url": "/{{customVar code=storeCode}}/accessories/men.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Kids Accessories",
+              "name": "اكسسوارات النظارات للأطفال",
               "url": "/{{customVar code=storeCode}}/accessories/kids.html",
               "target": "_self",
               "index": "",
@@ -1025,35 +990,35 @@
           ]
         },
         {
-          "name": "Brand",
+          "name": "ماركات الاكسسوارات",
           "url": "#",
           "target": "_self",
           "index": "",
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "30Sundays Accessories",
+              "name": "اكسسوارات 30سندايز للنظارات",
               "url": "/{{customVar code=storeCode}}/accessories/30sundays.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Babamio Accessories",
+              "name": "اكسسوارات باباميو للنظارات",
               "url": "/{{customVar code=storeCode}}/accessories/babamio.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Sunny Cords Accessories",
+              "name": "اكسسوارات سني كوردز للنظارات",
               "url": "/{{customVar code=storeCode}}/accessories/sunny-cords.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Any Di Accessories",
+              "name": "اكسسوارات اني دي للنظارات",
               "url": "/{{customVar code=storeCode}}/accessories/any-di.html",
               "target": "_self",
               "index": "",
@@ -1066,7 +1031,7 @@
     },
     {
       "target": "_self",
-      "name": "Sale and Offers",
+      "name": "عروض وتخفيضات",
       "url": "/{{customVar code=storeCode}}/clearance-sale.html",
       "index": 6,
       "desktop": true,
@@ -1076,65 +1041,68 @@
     }
   ],
   "customerCareLinks": [
-    { "label": "FAQs", "link": "/{{customVar code=storeCode}}/faqs" },
     {
-      "label": "Shipping and Delivery",
+      "label": "الأسئلة الأكثر شيوعاً",
+      "link": "/{{customVar code=storeCode}}/faqs"
+    },
+    {
+      "label": "الشحن و التوصيل",
       "link": "/{{customVar code=storeCode}}/shipping-and-delivery"
     },
     {
-      "label": "Payment Methods",
+      "label": "وسائل الدفع",
       "link": "/{{customVar code=storeCode}}/payment-methods"
     },
     {
-      "label": "Return and Exchange",
+      "label": "الاستبدال و الإرجاع",
       "link": "/{{customVar code=storeCode}}/return-policy"
     }
   ],
- "iconLinks": [
+  "iconLinks": [
     {
+      "link": "#",
       "index": 0,
-      "link": "#",
       "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/delivery.svg",
-      "label": "Fast Delivery"
+      "label": "شحن سريع"
     },
     {
+      "link": "#",
       "index": 1,
-      "link": "#",
       "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/return.svg",
-      "label": "Free 30-Day Return/Exchange"
+      "label": "إرجاع/إستبدال مجاني خلال 30 يوماً"
     },
     {
-      "index": 2,
       "link": "#",
+      "index": 2,
       "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/original.svg",
-      "label": "100% Original Products"
+      "label": "نضمن أن منتجاتنا 100% أصلية "
     }
   ],
   "cartIconLinks": [
     {
-      "index": 0,
       "link": "#",
+      "index": 0,
       "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/delivery.svg",
-      "label": "Fast Delivery"
+      "label": "شحن سريع"
     },
     {
-      "index": 1,
       "link": "#",
+      "index": 1,
       "icon": "https://cdn.eyewa.com/contents/assets/pwa/usp-icons/v3/return.svg",
-      "label": "Free 30-Day Return/Exchange"
+      "label": "إرجاع/إستبدال مجاني خلال 30 يوماً"
     }
   ],
-  "changeCountryDescription": "By selecting your country and language you will have all the products available in your region.",
+  "changeCountryDescription": "عند اختيارك لبلدك ولغتك ستظهر لك جميع المنتجات المتوفرة في منطقتك.",
   "infoBanner": "",
   "htmlContents": "",
   "countries": [
-    { "label": "UAE", "value": "ae" },
-    { "label": "Saudi Arabia", "value": "sa" },
-    { "label": "Kuwait", "value": "kw" },
-    { "label": "Qatar", "value": "qa" },
-    { "label": "Oman", "value": "om" },
-    { "label": "Bahrain", "value": "bh" },
-    { "label": "USA", "value": "us" }
+    { "label": "الإمارات العربية المتحدة", "value": "ae" },
+    { "label": "المملكة العربية السعودية", "value": "sa" },
+    { "label": "الكويت ", "value": "kw" },
+    { "label": "قطر", "value": "qa" },
+    { "label": "عمان", "value": "om" },
+    { "label": "البحرين", "value": "bh" },
+    { "label": "الولايات المتحدة الإمريكية", "value": "us" }
   ],
   "languages": [
     {
@@ -1148,30 +1116,30 @@
       "countries": ["ae", "sa", "kw", "qa", "om", "bh"]
     }
   ],
-  "appDownloadTitle": "Download our app",
-  "appDownloadDescription": "Our app makes your life easier and you get extra disccount",
-  "newletterTitle": "Get our special content",
-  "newsletterDescription": "Subscribe to our newsletter and get our latest offers.",
-  "newsletterSubscribeEmailPlaceholder": "Enter your email",
-  "newsletterSubmitLabel": "Sign Up",
-  "phone": "+968 2444 2602",
+  "appDownloadTitle": "حمَل تطبيقنا",
+  "appDownloadDescription": "تطبيقنا يجعل حياتك أسهل و يحصلك على المزيد من الخصومات",
+  "newletterTitle": "احصل على محتوانا المميز",
+  "newsletterDescription": ".اشترك في نشرتنا البريدية لمعرفة أحدث العروض",
+  "newsletterSubscribeEmailPlaceholder": "البريد الإلكتروني",
+  "newsletterSubmitLabel": "اشترك",
+  "phone": "04247 2979",
   "email": "customercare@eyewa.com",
-  "workingHours": "Everyday 8am - 12am",
+  "workingHours": "يوميا 8 صباحا - 12 منتصف الليل",
   "shipWithLogos": ["https://cdn.eyewa.com/media/icons/our-guranatee.svg"],
   "shipWithTitle": "",
-  "weAcceptTitle": "We accept",
+  "weAcceptTitle": "طرق الدفع",
   "weAcceptLogos": [
-    "https://cdn.eyewa.com/contents/assets/icons/payments-accepted/payments-accepted-Oman.svg"
+    "https://cdn.eyewa.com/contents/assets/icons/payments-accepted/payments-accepted-United-Arab-Emirates.svg"
   ],
   "sslText": "Ensuring safe and secure payments.",
   "sslImage": "https://cdn.eyewa.com/contents/assets/icons/ssl.svg",
   "disclaimerLinks": [
     {
-      "label": "Privacy Policy",
+      "label": "سياسة الخصوصية",
       "url": "/{{customVar code=storeCode}}/privacy-policy"
     },
     {
-      "label": "Terms & Conditions",
+      "label": "الشروط والأحكام",
       "url": "/{{customVar code=storeCode}}/terms-and-conditions"
     }
   ],
@@ -1199,78 +1167,86 @@
   ],
   "footerMenu": [
     {
-      "label": "Customer Care",
+      "label": "خدمة العملاء",
       "items": [
-        { "label": "FAQs", "url": "/{{customVar code=storeCode}}/faqs" },
         {
-          "label": "Track My Order",
+          "label": "الأسئلة الأكثر شيوعاً",
+          "url": "/{{customVar code=storeCode}}/faqs"
+        },
+        {
+          "label": "تتبع طلبك",
           "url": "/{{customVar code=storeCode}}/sales/order/history"
         },
         {
-          "label": "My Account",
+          "label": "حسابي الشخصي",
           "url": "/{{customVar code=storeCode}}/customer/account"
         },
         {
-          "label": "Shipping and Delivery",
+          "label": "الشحن و التوصيل",
           "url": "/{{customVar code=storeCode}}/shipping-and-delivery"
         },
         {
-          "label": "Payment Methods",
+          "label": "وسائل الدفع",
           "url": "/{{customVar code=storeCode}}/payment-methods"
         },
         {
-          "label": "Return and Exchange",
+          "label": "الاستبدال و الإرجاع",
           "url": "/{{customVar code=storeCode}}/return-policy"
         },
         {
-          "label": "Frames Warranty",
+          "label": "ضمان إطار النظارات",
           "url": "/{{customVar code=storeCode}}/frames-warranty"
         }
       ]
     },
     {
-      "label": "Top categories",
+      "label": "أفضل الفئات",
       "items": [
         {
-          "label": "Contact lenses",
+          "label": "عدسات",
           "url": "/{{customVar code=storeCode}}/contact-lenses.html"
         },
         {
-          "label": "Sunglasses for Men",
+          "label": "نظارات شمسية رجالي",
           "url": "/{{customVar code=storeCode}}/sunglasses/men.html"
         },
         {
-          "label": "Sunglasses for Women",
+          "label": "نظارات شمسية للنساء",
           "url": "/{{customVar code=storeCode}}/sunglasses/women.html"
         },
         {
-          "label": "Colored Contact Lenses",
+          "label": "الوان عدسات",
           "url": "/{{customVar code=storeCode}}/color-contact-lenses.html"
         },
         {
-          "label": "Glasses",
+          "label": "نظارات طبي",
           "url": "/{{customVar code=storeCode}}/glasses.html"
         }
       ]
     },
     {
-      "label": "About eyewa",
+      "label": "عن ايوا",
       "items": [
+        { "label": "من نحن", "url": "/{{customVar code=storeCode}}/about-us" },
         {
-          "label": "About us",
-          "url": "/{{customVar code=storeCode}}/about-us"
+          "label": "فروعنا",
+          "url": "/{{customVar code=storeCode}}/store-locator"
         },
         {
-          "label": "Contact us",
+          "label": "تواصل معنا",
           "url": "/{{customVar code=storeCode}}/contact-us"
         },
-        { "label": "Careers", "url": "/{{customVar code=storeCode}}/careers" },
         {
-          "label": "Eyewa Coupons and Discounts",
+          "label": "التأمين",
+          "url": "/{{customVar code=storeCode}}/insurance"
+        },
+        { "label": "وظائف", "url": "/{{customVar code=storeCode}}/careers" },
+        {
+          "label": "كوبونات خصم ايوا",
           "url": "/{{customVar code=storeCode}}/coupons"
         },
         {
-          "label": "Blog",
+          "label": "مدونتنا",
           "url": "https://eyewa.com/blog/",
           "target": "_blank"
         }
@@ -1279,66 +1255,71 @@
   ],
   "footerMenuMobile": [
     {
-      "label": "Customer Care",
+      "label": "خدمة العملاء",
       "items": [
-        { "label": "FAQs", "url": "/{{customVar code=storeCode}}/mobile/faqs" },
         {
-          "label": "Shipping and Delivery",
-          "url": "/{{customVar code=storeCode}}/mobile/shipping-and-delivery"
+          "label": "الأسئلة الأكثر شيوعاً",
+          "url": "/{{customVar code=storeCode}}/faqs"
         },
         {
-          "label": "Payment Methods",
-          "url": "/{{customVar code=storeCode}}/mobile/payment-methods"
+          "label": "الشحن و التوصيل",
+          "url": "/{{customVar code=storeCode}}/shipping-and-delivery"
         },
         {
-          "label": "Return and Exchange",
-          "url": "/{{customVar code=storeCode}}/mobile/return-policy"
+          "label": "وسائل الدفع",
+          "url": "/{{customVar code=storeCode}}/payment-methods"
         },
         {
-          "label": "Frames Warranty",
-          "url": "/{{customVar code=storeCode}}/mobile/frames-warranty"
+          "label": "الاستبدال و الإرجاع",
+          "url": "/{{customVar code=storeCode}}/return-policy"
         },
         {
-          "label": "Careers",
-          "url": "/{{customVar code=storeCode}}/mobile/careers"
+          "label": "ضمان إطار النظارات",
+          "url": "/{{customVar code=storeCode}}/frames-warranty"
+        },
+        { "label": "وظائف", "url": "/{{customVar code=storeCode}}/careers" },
+        { "label": "من نحن", "url": "/{{customVar code=storeCode}}/about-us" },
+        {
+          "label": "تواصل معنا",
+          "url": "/{{customVar code=storeCode}}/contact-us"
         },
         {
-          "label": "About Us",
-          "url": "/{{customVar code=storeCode}}/mobile/about-us"
+          "label": "التأمين",
+          "url": "/{{customVar code=storeCode}}/insurance"
         },
         {
-          "label": "Contact Us",
-          "url": "/{{customVar code=storeCode}}/mobile/contact-us"
-        },
-        {
-          "label": "Insurance",
-          "url": "/{{customVar code=storeCode}}/mobile/insurance"
-        },
-        {
-          "label": "Coupon",
-          "url": "/{{customVar code=storeCode}}/mobile/coupons"
+          "label": "كوبونات خصم ايوا",
+          "url": "/{{customVar code=storeCode}}/coupons"
         }
       ]
     }
   ],
   "eyewaAndroidMobileUrl": "https://play.google.com/store/apps/details?id=com.eyewa.app",
   "eyewaAppleMobileUrl": "https://apps.apple.com/us/app/eyewa-eyewear-shopping-app/id1463605579",
-  "copyright": "Copyright © 2023 Eyewa. All rights reserved.",
-  "countryLabel": "Country",
+  "copyright": "2023 ايوا. جميع الحقوق محفوظة",
+  "countryLabel": "البلد",
   "openMenuAriaLabel": "Open",
-  "closeMenuAriaLabel": "Close",
-  "searchAriaLabel": "Search",
-  "menuTitle": "Menu",
-  "customerCareLabel": "Customer Care",
-  "changeCountryLabel": "Change Country",
-  "changeCountryTitle": "Change Country and Language",
-  "selectCountryLabel": "Select Country",
-  "selectLanguageLabel": "Select Language",
-  "countryLanguageSubmitLabel": "Apply Changes",
-  "createAccountLabel": "Create Account",
-  "signInLabel": "Sign in",
-  "myAccountLabel": "My Account",
-  "signOutLabel": "Sign out",
+  "closeMenuAriaLabel": "اغلاق",
+  "searchAriaLabel": "بحث",
+  "menuTitle": "قائمة",
+  "customerCareLabel": "خدمة العملاء",
+  "changeCountryLabel": "تغيير الدولة",
+  "changeCountryTitle": "قم بتغيير البلد واللغة",
+  "selectCountryLabel": "اختر البلد",
+  "selectLanguageLabel": "اختر الغة",
+  "countryLanguageSubmitLabel": "احفظ التغييرات",
+  "createAccountLabel": "إنشاء حساب",
+  "signInLabel": "تسجيل الدخول",
+  "myAccountLabel": "حسابي",
+  "signOutLabel": "تسجيل الخروج",
   "algoliaRecommendationv2": true,
-  "algoliaRecommendation": true
+  "algoliaRecommendation": true,
+  "isRTL": true,
+  "utilityLinks": [
+    {
+      "label": "فروعنا",
+      "url": "/{{customVar code=storeCode}}/store-locator",
+      "icon": "<img style='margin-right: 13px;' src='https://cdn.eyewa.com/contents/assets/icons/storeLocatorIcon.svg'>"
+    }
+  ]
 }
