@@ -921,7 +921,7 @@
             },
             {
               "name": "Solutions and Eye Drops",
-              "url": "/{{customVar code=storeCode}}/accessories/solutions-and-drops.html",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
