@@ -48,7 +48,7 @@
             },
             {
               "target": "_self",
-              "name": "Disney Collection ",
+              "name": "Disney Collection",
               "url": "/{{customVar code=storeCode}}/sunglasses/disney-collection.html",
               "index": 3,
               "desktop": true,
@@ -350,7 +350,7 @@
             },
             {
               "target": "_self",
-              "name": "Disney Collection ",
+              "name": "Disney Collection",
               "url": "/{{customVar code=storeCode}}/glasses/disney-collection.html",
               "index": 4,
               "desktop": true,
@@ -360,7 +360,7 @@
             },
             {
               "target": "_self",
-              "name": "Clip-ons ",
+              "name": "Clip-ons",
               "url": "/{{customVar code=storeCode}}/spectus-clip-ons.html",
               "index": 5,
               "desktop": true,
@@ -370,7 +370,6 @@
             }
           ]
         },
-
         {
           "name": "Gender",
           "url": "#",
@@ -405,7 +404,7 @@
           "name": "Glasses Shapes",
           "url": "#",
           "target": "_self",
-          "index": 2,
+          "index": 1,
           "hideOnDesktop": false,
           "children": [
             {
@@ -459,7 +458,6 @@
             }
           ]
         },
-
         {
           "name": "Reading Glasses",
           "url": "/{{customVar code=storeCode}}/reading-glasses.html",
@@ -519,7 +517,7 @@
             },
             {
               "target": "_self",
-              "name": "Matte Collection ",
+              "name": "Matte Collection",
               "url": "/{{customVar code=storeCode}}/matte-collection.html",
               "index": 1,
               "desktop": true,
@@ -529,7 +527,7 @@
             },
             {
               "target": "_self",
-              "name": "Pastel Collection ",
+              "name": "Pastel Collection",
               "url": "/{{customVar code=storeCode}}/spectus-pastel-collection.html",
               "index": 2,
               "desktop": true,
@@ -1021,43 +1019,6 @@
       "mobile": true,
       "children": [
         {
-          "name": "Type",
-          "url": "#",
-          "target": "_self",
-          "index": 2,
-          "hideOnDesktop": false,
-          "children": [
-            {
-              "name": "Chains",
-              "url": "/{{customVar code=storeCode}}/accessories/cords.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Cases",
-              "url": "/{{customVar code=storeCode}}/accessories/sunglasses-cases.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Cleaning Kit",
-              "url": "/{{customVar code=storeCode}}/accessories/cleaning-kit.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Solutions and Eye Drops",
-              "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
-              "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            }
-          ]
-        },
-        {
           "name": "TOP PICKS",
           "url": "#",
           "target": "_self",
@@ -1117,21 +1078,51 @@
               "name": "Women's Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/women.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
               "name": "Men's Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/men.html",
               "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
               "name": "Kid's Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/kids.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
+              "hideOnDesktop": false
+            }
+          ]
+        },
+        {
+          "name": "Type",
+          "url": "#",
+          "target": "_self",
+          "index": 2,
+          "hideOnDesktop": false,
+          "children": [
+            {
+              "name": "Chains",
+              "url": "/{{customVar code=storeCode}}/accessories/cords.html",
+              "target": "_self",
+              "index": 0,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "Cases",
+              "url": "/{{customVar code=storeCode}}/accessories/sunglasses-cases.html",
+              "target": "_self",
+              "index": 1,
+              "hideOnDesktop": false
+            },
+            {
+              "name": "Solutions and Eye Drops",
+              "url": "/{{customVar code=storeCode}}/solutions-and-drops.html",
+              "target": "_self",
+              "index": 2,
               "hideOnDesktop": false
             }
           ]
@@ -1140,35 +1131,28 @@
           "name": "Brand",
           "url": "#",
           "target": "_self",
-          "index": "",
+          "index": 3,
           "hideOnDesktop": false,
           "children": [
             {
               "name": "30Sundays Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/30sundays.html",
               "target": "_self",
-              "index": "",
+              "index": 0,
               "hideOnDesktop": false
             },
             {
               "name": "Babamio Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/babamio.html",
               "target": "_self",
-              "index": "",
-              "hideOnDesktop": false
-            },
-            {
-              "name": "Sunny Cords Accessories",
-              "url": "/{{customVar code=storeCode}}/accessories/sunny-cords.html",
-              "target": "_self",
-              "index": "",
+              "index": 1,
               "hideOnDesktop": false
             },
             {
               "name": "Any Di Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/any-di.html",
               "target": "_self",
-              "index": "",
+              "index": 2,
               "hideOnDesktop": false
             }
           ]
@@ -1184,150 +1168,143 @@
       "desktop": true,
       "mobile": true,
       "children": [
-
-
- {
+        {
           "name": "TOP PICKS",
           "url": "#",
           "target": "_self",
           "index": 0,
           "hideOnDesktop": false,
           "children": [
- {
-   "target": "_self",
-   "name": "Sunglasses",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/sunglasses.html",
-   "index": 0,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Blue Light Glasses",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/blue-light-glasses.html",
-   "index": 1,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- }
-]
+            {
+              "target": "_self",
+              "name": "Sunglasses",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/sunglasses.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Blue Light Glasses",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/blue-light-glasses.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ]
         },
-
- {
+        {
           "name": "GENDER",
           "url": "#",
           "target": "_self",
           "index": 1,
           "hideOnDesktop": false,
           "children": [
- {
-   "target": "_self",
-   "name": "Women",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/sunglasses/women.html",
-   "index": 0,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Men",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/sunglasses/men.html",
-   "index": 1,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Kids",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/sunglasses/kids.html",
-   "index": 2,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- }
-]
+            {
+              "target": "_self",
+              "name": "Women",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/sunglasses/women.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Men",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/sunglasses/men.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Kids",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/sunglasses/kids.html",
+              "index": 2,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ]
         },
-
-
- {
+        {
           "name": "SHAPE",
           "url": "#",
           "target": "_self",
           "index": 2,
           "hideOnDesktop": false,
           "children": [
- {
-   "target": "_self",
-   "name": "Round",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/round-shape-frames.html",
-   "index": 0,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Cat Eye",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/cat-eye-shape-frame.html",
-   "index": 1,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Rectangle",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/rectangle-shape-frames.html",
-   "index": 2,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Square",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/square-shape-frames.html",
-   "index": 3,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Aviator",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/aviator-shape-frames.html",
-   "index": 4,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Oval ",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/oval-shape-frames.html",
-   "index": 5,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- }
-]
-        }
-,
-
+            {
+              "target": "_self",
+              "name": "Round",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/round-shape-frames.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Cat Eye",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/cat-eye-shape-frame.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Rectangle",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/rectangle-shape-frames.html",
+              "index": 2,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Square",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/square-shape-frames.html",
+              "index": 3,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Aviator",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/aviator-shape-frames.html",
+              "index": 4,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Oval",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/oval-shape-frames.html",
+              "index": 5,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ]
+        },
         {
           "name": "BRAND",
           "url": "#",
@@ -1335,90 +1312,89 @@
           "index": 3,
           "hideOnDesktop": false,
           "children": [
- {
-   "target": "_self",
-   "name": "30Sundays",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/30sundays-clearance-sale.html",
-   "index": 0,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Blackout",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/blackout-clearance-sale.html",
-   "index": 1,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Babamio",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/babamio-clearance-sale.html",
-   "index": 2,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "TOPFOXX",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/topfoxx-clearance-sale.html",
-   "index": 3,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Polaroid",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/polaroid-clearance-sale.html",
-   "index": 4,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "MVMT",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/mvmt-clearance-sale.html",
-   "index": 5,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "ROAV",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/roav-clearance-sale.html",
-   "index": 6,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- },
- {
-   "target": "_self",
-   "name": "Le specs",
-   "url": "/{{customVar code=storeCode}}/clearance-sale/le-specs-clearance-sale.html",
-   "index": 7,
-   "desktop": true,
-   "mobile": true,
-   "children": [],
-   "hideOnDesktop": false
- }
-]
+            {
+              "target": "_self",
+              "name": "30Sundays",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/30sundays-clearance-sale.html",
+              "index": 0,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Blackout",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/blackout-clearance-sale.html",
+              "index": 1,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Babamio",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/babamio-clearance-sale.html",
+              "index": 2,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "TOPFOXX",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/topfoxx-clearance-sale.html",
+              "index": 3,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Polaroid",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/polaroid-clearance-sale.html",
+              "index": 4,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "MVMT",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/mvmt-clearance-sale.html",
+              "index": 5,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "ROAV",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/roav-clearance-sale.html",
+              "index": 6,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            },
+            {
+              "target": "_self",
+              "name": "Le specs",
+              "url": "/{{customVar code=storeCode}}/clearance-sale/le-specs-clearance-sale.html",
+              "index": 7,
+              "desktop": true,
+              "mobile": true,
+              "children": [],
+              "hideOnDesktop": false
+            }
+          ]
         }
-
-],
+      ],
       "hideOnDesktop": false
     }
   ],
