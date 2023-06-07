@@ -35,7 +35,7 @@
           },
           {
             "target": "_self",
-            "name": "Kids Sunglasses",
+            "name": "Kid's Sunglasses",
             "url": "/{{customVar code=storeCode}}/sunglasses/kids.html",
             "index": "",
             "desktop": true,

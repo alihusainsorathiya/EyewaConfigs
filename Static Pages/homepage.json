@@ -1,0 +1,369 @@
+[{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/Eye-test-Booking-EN-2.jpg",
+      "imagealt": "",
+      "url": "/calendly.com/d/2hy-qky-4dg/free-eye-test-uae",
+      "target": "_blank"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/24-03-2023/R44-MW-EN.jpg",
+      "imagealt": "",
+      "url": "/sunglasses.html",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/24-03-2023/Y37-EN-2.png",
+      "imagealt": "",
+      "url": "/pay-day-offer.html?promo_name=y37_pay_day_offer",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/readers/R14B-EN-MB.png",
+      "imagealt": "",
+      "url": "/layala-lenses.html",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/24-03-2023/Up-to-60-CCL-EN---UAE-1.png",
+      "imagealt": "",
+      "url": "/color-contact-lenses.html?promo_name=y_60%-ccl",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/uae/mobile-shop-by-category--EN.png",
+      "imagealt": "",
+      "url": "/#",
+      "target": "_self"
+    }
+  },{
+    "type": "categories",
+    "backgroundColor": "undefined",
+    "data": {
+      "products": [{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/Category-IMG-Glasses----Mobile-EN-1683119972850.png"
+    },
+    "url_key": "/glasses.html",
+    "target": "_self",
+    "name": "glasses"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/Category-IMG-Sunglasses----Mobile-EN-1683119969470.png"
+    },
+    "url_key": "/sunglasses.html",
+    "target": "_self",
+    "name": "sunglasses"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/Category-IMG-Kids---Mobile-EN-1683119968334.png"
+    },
+    "url_key": "/kids-eyewear.html",
+    "target": "_self",
+    "name": "kidseyewear"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/Category-IMG-Contact-Lenses---Mobile-EN-1683119972479.png"
+    },
+    "url_key": "/corrective-contact-lenses.html",
+    "target": "_self",
+    "name": "pcl"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/Category-IMG-Color-Lenses---Mobile-EN-1683119971327.png"
+    },
+    "url_key": "/color-contact-lenses.html",
+    "target": "_self",
+    "name": "ccl"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/Category-IMG-Accessories---Mobile-EN-1683119969512.png"
+    },
+    "url_key": "/accessories.html",
+    "target": "_self",
+    "name": "Accessories"
+  }]
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/uae/mobile-shop-by-category-1--EN.png",
+      "imagealt": "",
+      "url": "/#",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-march---ramadan-2023/R13-EN-5.jpg",
+      "imagealt": "",
+      "url": "/corrective-contact-lenses.html?promo_name=r13_ramadan_offer",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "/images/placeholder-mobile.jpg",
+      "imagealt": "",
+      "url": "/corrective-contact-lenses/everva.html",
+      "target": "_self"
+    }
+  },{
+    "type": "categories",
+    "backgroundColor": "undefined",
+    "data": {
+      "products": [{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/R39-Mobile-MOTHLY-EN-2.png"
+    },
+    "url_key": "/color-contact-lenses/amara/monthly.html",
+    "target": "_self",
+    "name": "category 1"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/R39-Mobile-Daily-EN-2.png"
+    },
+    "url_key": "/color-contact-lenses/amara/daily.html",
+    "target": "_self",
+    "name": "category 2"
+  }]
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/Mobile-EN.png",
+      "imagealt": "",
+      "url": "/color-contact-lenses/bella.html",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-march---ramadan-2023/R18-EN-1.png",
+      "imagealt": "",
+      "url": "/tommy-and-hugo.html?promo_name=r18_ramadan_offer",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/uae/mobile-shop-by-category-2--EN.png",
+      "imagealt": "",
+      "url": "/#",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/plp-images/Y8-EN-mb.png",
+      "imagealt": "",
+      "url": "/heritage-collection.html?promo_name=y8_heritage_collection",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/plp-images/Y4-EN-mb.png",
+      "imagealt": "",
+      "url": "/spring-collection.html?promo_name=y4_spring_collection",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/plp-images/Y5-EN-mb.png",
+      "imagealt": "",
+      "url": "/runway-rimless.html?promo_name=y5_runway_rimless",
+      "target": "_self"
+    }
+  },{
+    "type": "categories",
+    "backgroundColor": "undefined",
+    "data": {
+      "products": [{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/1-may-app/Y9-162x230-EN-1683197944584.png"
+    },
+    "url_key": "/spectus-natural-elements.html?promo_name=r12a_spring",
+    "target": "_self",
+    "name": "category 2"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/24-03-2023/Y31-162x230-EN.png"
+    },
+    "url_key": "/spectus-chic-collection.html?promo_name=r12a_ramadan_offer",
+    "target": "_self",
+    "name": "category 1"
+  }]
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/24-03-2023/Y10-EN-1.png",
+      "imagealt": "",
+      "url": "/cloud-collection.html?promo_name=r16_ramadan_offer",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/24-03-2023/B37-EN-2.jpg",
+      "imagealt": "",
+      "url": "/disney-collection.html?promo_name=r15_ramadan_offer",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-03-2023/uae/mobile-shop-by-category-3--EN.png",
+      "imagealt": "",
+      "url": "/#",
+      "target": "_self"
+    }
+  },{
+    "type": "categories",
+    "backgroundColor": "undefined",
+    "data": {
+      "products": [{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/23-03-2023/uae/-EN-2Moile.jpg"
+    },
+    "url_key": "/new-season-staples.html?promo_name=y18_new_season_staples",
+    "target": "_self",
+    "name": "category 1"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/-EN.png"
+    },
+    "url_key": "/bold-and-gold.html?promo_name=y19_bold_and_gold",
+    "target": "_self",
+    "name": "category 2"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/23-03-2023/uae/-EN-2-Mobile.jpg"
+    },
+    "url_key": "/mix-and-match.html?promo_name=y20_dynamic_duo",
+    "target": "_self",
+    "name": "category name"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/23-03-2023/uae/EN-1.jpg"
+    },
+    "url_key": "/sunglasses/best-sellers/women.html?promo_name=y21_coveted_frames",
+    "target": "_self",
+    "name": "category name"
+  }]
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/24-03-2023/mobile-shop-by-category_explore-Now-1.png",
+      "imagealt": "",
+      "url": "/#",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/23-march---ramadan-2023/vto-landscape-en-3.gif",
+      "imagealt": "",
+      "url": "/vto-landing-page",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/july--01/Best-Price-Guarantee-Mobile-EN.jpg",
+      "imagealt": "",
+      "url": "/best-price-guarantee?promo_name=best-price-guarantee&utm_content=best-price-banner",
+      "target": "_self"
+    }
+  },{
+    "type": "banner",
+    "data": {
+      "button": "",
+      "image": "https://cdn.eyewa.com/contents/24-03-2023/00-VisitEyewaStores-EN-3.png",
+      "imagealt": "",
+      "url": "/store-locator",
+      "target": "_self"
+    }
+  },{
+    "type": "categories",
+    "backgroundColor": "undefined",
+    "data": {
+      "products": [{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/july--01/LAYALA-MOBILE.jpg"
+    },
+    "url_key": "/color-contact-lenses/layala.html",
+    "target": "_self",
+    "name": "layala"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/july--01/30-Sundays---MObile.jpg"
+    },
+    "url_key": "/sunglasses/30sundays.html",
+    "target": "_self",
+    "name": "30Sundays"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/1-jan-app/Spectus-EN-1.jpg"
+    },
+    "url_key": "/glasses/spectus.html",
+    "target": "_self",
+    "name": "spectus"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/july--01/Everva-Mobile.jpg"
+    },
+    "url_key": "/corrective-contact-lenses/everva.html",
+    "target": "_self",
+    "name": "everva"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/july--01/Blackout-Mobile.jpg"
+    },
+    "url_key": "/sunglasses/blackout.html",
+    "target": "_self",
+    "name": "blackout"
+  },{
+    "thumbnail": {
+      "url": "https://cdn.eyewa.com/contents/july--01/Acuvue-Mobile.jpg"
+    },
+    "url_key": "/corrective-contact-lenses/acuvue.html",
+    "target": "_self",
+    "name": "acuvue"
+  }]
+    }
+  }]

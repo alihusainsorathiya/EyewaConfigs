@@ -37,7 +37,7 @@
             },
             {
               "target": "_self",
-              "name": "Kids Sunglasses",
+              "name": "Kid's Sunglasses",
               "url": "/{{customVar code=storeCode}}/sunglasses/kids.html",
               "index": "",
               "desktop": true,
@@ -284,21 +284,21 @@
           "hideOnDesktop": false,
           "children": [
             {
-              "name": "Women Accessories",
+              "name": "Women's Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/women.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Men Accessories",
+              "name": "Men's Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/men.html",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
             },
             {
-              "name": "Kids Accessories",
+              "name": "Kid's Accessories",
               "url": "/{{customVar code=storeCode}}/accessories/kids.html",
               "target": "_self",
               "index": "",
