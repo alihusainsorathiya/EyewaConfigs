@@ -78,8 +78,8 @@
             },
             {
               "target": "_self",
-              "name": "Runway Rimless",
-              "url": "/{{customVar code=storeCode}}/runway-rimless.html",
+              "name": "Sunset Shades",
+              "url": "/{{customVar code=storeCode}}/sunset-shades.html",
               "index": 6,
               "desktop": true,
               "mobile": true,
@@ -715,7 +715,7 @@
           "children": [
             {
               "name": "Everva Contact Lenses",
-              "url": "/{{customVar code=storeCode}}/corrective-contact-lenses/everva.html",
+              "url": "/{{customVar code=storeCode}}/brands/everva",
               "target": "_self",
               "index": "",
               "hideOnDesktop": false
